@@ -2,5 +2,9 @@ theme: jekyll-theme-minimal
 title: Ryan Allen
 description: PhD candidate at HBS
 logo: https://github.com/ryanthomasallen/ryanthomasallen.github.io/blob/main/ryan_allen_portrait.jpg?raw=true
-google_analytics: G-TJ9G9NFN8Q
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : G-TJ9G9NFN8Q
 
