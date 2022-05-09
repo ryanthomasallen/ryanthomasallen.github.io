@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Ryan Allen
 description: PhD candidate at HBS
+github:
+  is_project_page: false
