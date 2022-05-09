@@ -6,3 +6,5 @@ permalink: /teaching/
 
 # Teaching
 Teaching content here
+
+[back](./)
