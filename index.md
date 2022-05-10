@@ -12,8 +12,7 @@ I am a PhD candidate at Harvard Business School. I conduct research at the inter
   
 <li>In <strong>chapter 3</strong>, I study experimentation-driven product innovation in user communities. I show that innovation trajectories can get derailed when innovators are highly responsive to experimentation in highly concentrated user communities that are not representative of the broader market.</li>
 </ul>
-  
-</details>
+</details><br>
   
 My dissertation work builds on my [prior publications](./research.md#publications) on [algorithms+judgment](https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554), [epistomology in machine learning methods](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215), and [industry dynamics](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130).
 
