@@ -13,6 +13,6 @@ I am a PhD candidate at Harvard Business School. I conduct research at the inter
 <li>In <strong>chapter 3</strong>, I study experimentation-driven product innovation in user communities. I show that innovation trajectories can get derailed when innovators are highly responsive to experimentation in highly concentrated user communities that are not representative of the broader market.</li>
 </ul>
 </details><br>
-My dissertation work builds on my [prior publications](./research.md#publications) on [algorithms+judgment](https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554), [epistomology in machine learning methods](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215), and [industry dynamics](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130).
-
+My dissertation work builds on my [prior publications](./research.md#publications) on <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">algorithms+judgment</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">epistomology in machine learning methods</a>, and <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">industry dynamics</a>.  
+  
 Prior to HBS, I studied Economics at BYU, served a 2-year mission in Taiwan for my church, conducted economic research on environmental health issues, managed at a nonprofit, and worked as data analyst at Amazon. My wife and I are also slowly building an [e-commerce empire](https://www.myrosalyn.com/). I life in Cambridge, MA with my wife and 3 children.
