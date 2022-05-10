@@ -5,6 +5,7 @@ I am a PhD candidate at Harvard Business School. I conduct research at the inter
 [My dissertation research](./research.md#working-papers) is organized around the question: how can innovators anticipate market demand to produce commercially successful innovations? I demonstrate that prior work, which tends to extol the benefits of predictive analytics and experimentation, is incomplete.
 
 <details><summary><strong>Brief overview of dissertation chapters</strong></summary>
+  See the [research page](./research.md#working-papers) for full abstracts
 <ul>
 <li>In <strong>chapter 1</strong> of my dissertation, I show that when incumbent products enjoy high market power, new products that initially appeal to niche market segments are more likely to achieve widespread commercial success than products that initially enjoy broad appeal. Therefore, prior to launch, innovations with the most potential for commercial success may systematically appear to have small potential market sizes according to traditional quantitative market-sizing techniques.</li>
   
@@ -13,6 +14,6 @@ I am a PhD candidate at Harvard Business School. I conduct research at the inter
 <li>In <strong>chapter 3</strong>, I study experimentation-driven product innovation in user communities. I show that innovation trajectories can get derailed when innovators are highly responsive to experimentation in highly concentrated user communities that are not representative of the broader market.</li>
 </ul>
 </details><br>
-My dissertation work builds on my [prior publications](./research.md#publications) on <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">algorithms+judgment</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">epistomology in machine learning methods</a>, and <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">industry dynamics</a>.  
+My dissertation work follows my [prior publications](./research.md#publications) on the topics of <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">algorithms+judgment</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">epistomology in machine learning methods</a>, and <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">industry dynamics</a>.  
   
 Prior to HBS, I studied Economics at BYU, served a 2-year mission in Taiwan for my church, conducted economic research on environmental health issues, managed at a nonprofit, and worked as data analyst at Amazon. My wife and I are also slowly building an [e-commerce empire](https://www.myrosalyn.com/). I life in Cambridge, MA with my wife and 3 children.
