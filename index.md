@@ -1,9 +1,3 @@
----
-layout: default
-title: "Overview"
-permalink: /overview/
----
-
 # Overview
 
 I am a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship. I am on the job market this year, 2022-2023.
