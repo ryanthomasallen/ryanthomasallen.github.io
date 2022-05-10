@@ -1,6 +1,6 @@
 # Overview
 
-I am a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship. I am on the job market this year, 2022-2023.
+I am a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship. I am on the job market this year (2022-2023).
 
 [My dissertation research](./research.md#working-papers) is organized around the question: how can innovators anticipate market demand to create commercially successful innovations? I demonstrate that prior work, which tends to extol the benefits of predictive analytics and experimentation, is incomplete.
 
