@@ -4,7 +4,7 @@ I am a PhD candidate at Harvard Business School. I conduct research at the inter
 
 [My dissertation research](./research.md#working-papers) is organized around the question: how can innovators anticipate market demand to create commercially successful innovations? I demonstrate that prior work, which tends to extol the benefits of predictive analytics and experimentation, is incomplete.
 
-<details><summary><strong>Click for brief overview of the three chapters in my dissertation</strong></summary>
+<details><summary><strong>Brief overview of dissertation chapters</strong></summary>
 <ul>
 <li>In <strong>chapter 1</strong> of my dissertation, I show that when incumbent products enjoy high market power, new products that initially appeal to niche market segments are more likely to achieve widespread commercial success than products that initially enjoy broad appeal. Therefore, prior to launch, innovations with the most potential for commercial success may systematically appear to have small potential market sizes according to traditional quantitative market-sizing techniques.</li>
   
@@ -14,6 +14,7 @@ I am a PhD candidate at Harvard Business School. I conduct research at the inter
 </ul>
 </details>
   
-The chapters of my dissertation are informed by my [prior publications](./research.md#publications) on [algorithms+judgment](https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554), [epistomology in machine learning methods](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215), and [industry dynamics](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130).
+  
+My dissertation work builds on my [prior publications](./research.md#publications) on [algorithms+judgment](https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554), [epistomology in machine learning methods](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215), and [industry dynamics](https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130).
 
 Prior to HBS I studied Economics/Math/Strategy at BYU, served a 2-year mission for my church in Taiwan, conducted economic research on environmental health issues, managed at a nonprofit, and worked as data analyst at Amazon. Outside school, my wife and I are slowly building an [e-commerce empire](https://www.myrosalyn.com/). I life in Cambridge, MA with my wife and 3 children.
