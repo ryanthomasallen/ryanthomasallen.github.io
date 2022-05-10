@@ -1,6 +1,12 @@
 # Overview
 
-I am a PhD candidate at Harvard Business School. I study innovation, strategy, and entrepreneurship in organizations.
+I am a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship.
+
+My current work is organized around a question faced by all innovators: [if I build it, will they come](## "h/t Field of Dreams")? Or, in other words: how can innovators anticipate future market demand to create commercially successful innovations? I show how prior work extolling predictive analytics and experimentation is incomplete.
+
+These projects are informed by my prior published papers related to algorithms and organization theory.
+
+Prior to 
 
 # Publications
 
