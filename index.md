@@ -2,7 +2,7 @@
 
 I am a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship. I am on the job market this year, 2022-2023.
 
-[My dissertation research](./research.md) is organized around the question: how can innovators anticipate market demand to create commercially successful innovations? I demonstrate that prior work, which tends to extol the benefits of predictive analytics and experimentation, is incomplete.
+[My dissertation research](./research.md#working-papers) is organized around the question: how can innovators anticipate market demand to create commercially successful innovations? I demonstrate that prior work, which tends to extol the benefits of predictive analytics and experimentation, is incomplete.
 
 <details><summary>Click for brief overview of my dissertation chapters</summary>
 In chapter 1 of my dissertation, I show that when incumbent products enjoy high market power, new products that initially appeal to niche market segments are more likely to achieve widespread commercial success than products that initially enjoy broad appeal. Therefore, prior to launch, innovations with the most potential for commercial success may systematically appear to have small potential market sizes according to traditional quantitative market-sizing techniques. 
