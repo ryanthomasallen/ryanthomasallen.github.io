@@ -23,7 +23,7 @@ HBS Executive Education; 2022
   
 **Leading with People Analytics**  
 HBS Elective Curriculum; 2020
-  - Teaching fellow for MBA course that uses the case method to teach data science in the context of people analytics
+  - Teaching fellow for MBA course that used the case method to teach data science in the context of people analytics
   - Led weekly MBA student review sessions teaching statistics and the R programming language
   - Teaching rating 6.5 / 7 (30 students)  
   
