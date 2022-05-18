@@ -1,6 +1,6 @@
 # Overview
 
-I am a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship.
+I'm a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship.
 
 In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I ask: how can innovators anticipate market demand to produce commercially successful innovations? I demonstrate how prior work on the benefits of predictive analytics and experimentation is incomplete.
 
