@@ -7,7 +7,7 @@ permalink: /research/
   
 ## Publications
 <hr style="border:1px solid gray">  
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  <a href="/parks/terms-and-conditions.pdf" title="terms and conditions" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169062674-98985eb8-c9c3-4321-8d88-02bf11967c2a.jpg" style="height: 23px; width: 23px"></a><br>  
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  <a href="https://ryanthomasallen.github.io/Allen_Choudhury_2022.pdf" title="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169062674-98985eb8-c9c3-4321-8d88-02bf11967c2a.jpg" alt="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion PDF link" style="height: 23px; width: 23px"></a><br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* "Best PhD Student Paper" at SMS conference 2020  
 
 <hr style="border:none;height:1px;">  
