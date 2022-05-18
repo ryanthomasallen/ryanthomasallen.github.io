@@ -18,6 +18,6 @@ My dissertation work follows my <a href="https://ryantallen.com/research/#public
   
 Prior to HBS, I studied Economics at BYU, served a 2-year mission in Taiwan for my church, conducted economic research on environmental health issues, managed at a nonprofit, and worked as data analyst at Amazon. 
 
-As a Utah native, I like hiking, mountain biking, and skiing. I thrive when I'm learning new skills (e.g., guitar, coding, bike repairs). My favorite book genre is sci-fi, and I enjoy reading technology and rationalist blogs.  My wife and I are building an e-commerce business together. We live in Cambridge, MA with our 3 children.
+As a Utah native, I like hiking, mountain biking, and skiing. I thrive when I'm learning new skills (e.g., guitar, coding, fixing things). I love sci-fi books, and I enjoy reading technology and rationalist blogs.  My wife and I are building an e-commerce business together. We live in Cambridge, MA with our 3 children.
   
 Click the links under my picture to <a href="https://ryantallen.com/contact/" target="_blank">contact</a> me, or to learn more about my <a href="https://ryantallen.com/research/" target="_blank">research</a> and <a href="https://ryantallen.com/teaching/" target="_blank">teaching</a> experience.
