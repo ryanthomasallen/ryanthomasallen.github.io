@@ -13,7 +13,7 @@ ___
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*.  
 ___  
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. *Strategic Management Journal* 42(1), 30-57  
-___  
+
 ## Working Papers
 ___  
 **"Epistemic Plasticity and Innovation in Data-Driven Organizational Cultures"** (Job Market Paper; Dissertation Chapter 2)  
