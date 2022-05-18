@@ -8,7 +8,7 @@ permalink: /research/
 ## Publications
 <hr style="border:1px solid gray">  
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  <a href="https://ryanthomasallen.github.io/Allen_Choudhury_2022.pdf" title="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169068227-aa207b63-20db-4c76-8cc1-bdb0c5f4bc26.jpg" alt="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion PDF link" style="height: 20px; width: 20px"></a><br>  
-<p style="margin-left:10%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
+<p style="margin-left:5%;size:90%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
 <hr style="border:none;height:1px;">  
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*. <a href="https://ryanthomasallen.github.io/McDonald_Allen_2021.pdf" title="A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169068227-aa207b63-20db-4c76-8cc1-bdb0c5f4bc26.jpg" alt="A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents PDF link" style="height: 20px; width: 20px"></a><br>
 <hr style="border:none;height:1px;">  
@@ -18,8 +18,10 @@ permalink: /research/
 ## Working Papers
 <hr style="border:1px solid gray">  
 **"Epistemic Plasticity and Innovation in Data-Driven Organizational Cultures"** (Job Market Paper; Dissertation Chapter 2)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* "Best Paper" at Wharton Innovation Doctoral Symposium 2022  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* Under Review at *Administrative Science Quarterly*
+<p style="margin-left:5%;size:90%;">
+  ** "Best Paper" at Wharton Innovation Doctoral Symposium 2022<br>
+  ** Under Review at <i>Administrative Science Quarterly</i>
+</p>
 <ul>
 <details><summary>Abstract</summary>A long tradition in innovation research asserts that data-driven organizations excel at incremental innovation, but allocate resources away from less-measurable breakthrough innovations. Questioning this premise, I distinguish the magnitude of an organization’s use of quantitative analysis from the epistemic plasticity of its organizational culture (the extent to which members use different kinds of analyses). I argue that organizations using more quantitative analysis will actually produce more breakthrough innovations—provided that their cultures are plastic enough to use qualitative analysis liberally as well. To test my theory, I measure innovation performance using product-level sales and attribute data for over 3,500 consumer product launches from 61 organizations between 2010 and 2016; I measure use of qualitative and quantitative analyses using natural language processing on employee résumés. I find that increased reliance on quantitative analysis decreases innovation performance when qualitative analysis is low, and, conversely, increases when qualitative analysis is high. Additional analyses show that this relationship is particularly strong for novel products, and in markets characterized by high uncertainty. I also explore antecedents: management fads, not organizational learning, appear to account for excessively data-driven cultures. The paper contributes to organizational theories of innovation, and to research linking organizational culture to strategic performance.</details>
 </ul>
