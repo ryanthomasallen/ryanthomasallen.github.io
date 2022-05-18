@@ -20,4 +20,4 @@ Prior to HBS, I studied Economics at BYU, served a 2-year mission in Taiwan for 
 
 As a Utah native, I like hiking, mountain biking, and skiing. I also enjoy reading sci-fi books, and technology/rationalist blogs. I thrive when I'm learning new skills (e.g., guitar, coding, fixing things). My wife and I are building an e-commerce business together. We live in Cambridge, MA with our 3 children.
   
-Click the links under my picture to <a href="https://ryantallen.com/contact/" target="_blank">contact</a> me, or to learn more about my <a href="https://ryantallen.com/research/" target="_blank">research</a> and <a href="https://ryantallen.com/teaching/" target="_blank">teaching</a> experience.
+Click the links under my picture to <a href="https://ryantallen.com/contact/" target="_blank">contact</a> me, or to see my <a href="https://ryantallen.com/research/" target="_blank">research</a> and <a href="https://ryantallen.com/teaching/" target="_blank">teaching</a> experience.
