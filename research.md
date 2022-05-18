@@ -8,11 +8,11 @@ permalink: /research/
 ## Publications
 ___  
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* "Best PhD Student Paper" at SMS conference 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* "Best PhD Student Paper" at SMS conference 2020  
 ___  
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*.
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*.  
 ___  
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. *Strategic Management Journal* 42(1), 30-57
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. *Strategic Management Journal* 42(1), 30-57  
 ___  
 ## Working Papers
 ___  
@@ -40,5 +40,4 @@ ___
 </ul>
 ___  
 **"From Local Modification to Global Innovation: How Foreign Research Units in Emerging Economies Innovate for the World"** with Shad Morris, James Oldroyd, Daniel Chng, and Jian Han.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* 2nd round R&R at *Journal of International Business Studies*
-___  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* 2nd round R&R at *Journal of International Business Studies*  
