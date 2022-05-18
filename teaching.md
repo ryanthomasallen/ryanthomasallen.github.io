@@ -19,7 +19,7 @@ HBS Executive Education; 2022
 **Owner and President Management (OPM)**  
 HBS Executive Education; 2022
   - Coached executive education course on general management and leadership
-  - Taught management and leadership to chief executives / company owners in small group sessions
+  - Taught management and leadership to chief executives and company owners in small group sessions
   - Conducted one-on-one sessions focused on complex business challenges and personal leadership development 
 <hr style="border:none;height:1px;">    
 **Leading with People Analytics**  
