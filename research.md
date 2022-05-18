@@ -11,9 +11,9 @@ permalink: /research/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* "Best PhD Student Paper" at SMS conference 2020  
 
 <hr style="border:none;height:1px;">  
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*.  
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*. <a href="https://ryanthomasallen.github.io/McDonald_Allen_2021.pdf" title="A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169062674-98985eb8-c9c3-4321-8d88-02bf11967c2a.jpg" alt="A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents PDF link" style="height: 23px; width: 23px"></a><br>
 <hr style="border:none;height:1px;">  
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. *Strategic Management Journal* 42(1), 30-57  
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. *Strategic Management Journal* 42(1), 30-57. <a href="https://ryanthomasallen.github.io/Choudhury_Allen_Endres_2021.pdf" title="Machine Learning for Pattern Discovery in Management Research" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169062674-98985eb8-c9c3-4321-8d88-02bf11967c2a.jpg" alt="Machine Learning for Pattern Discovery in Management Research PDF link" style="height: 23px; width: 23px"></a><br>  
 <hr style="border:none;height:1px;">  
 
 ## Working Papers
