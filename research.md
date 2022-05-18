@@ -7,8 +7,9 @@ permalink: /research/
   
 ## Publications
 <hr style="border:1px solid gray">  
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  <a href="/parks/terms-and-conditions.pdf" title="terms and conditions" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169062674-98985eb8-c9c3-4321-8d88-02bf11967c2a.jpg" style="height: 23px; width: 23px"></a><br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* "Best PhD Student Paper" at SMS conference 2020  
+
 <hr style="border:none;height:1px;">  
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*.  
 <hr style="border:none;height:1px;">  
