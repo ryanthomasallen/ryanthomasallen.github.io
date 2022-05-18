@@ -32,7 +32,7 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 **"Experimentation-driven Product Innovation in User-Communities: The Engagement Dilemma"** with Rory McDonald and Rob Bremner (Dissertation Chapter 3)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* In preparation for submission to *Organization Science*
+<p style="margin-left:5%;size:90%;">** In preparation for submission to <i>Organization Science</i></p>
 <ul>
 <details><summary>Abstract</summary>This study investigates experimentation-driven product innovation in user communities. Prior research has largely focused on the innovation benefits of leveraging users and user communities as an experimentation resource. In this paper, we posit that reaping the innovation-related benefits of experimentation is contingent upon the degree to which the community provides an unbiased representation of the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to community feedback increases games’ commercial performance on average, unless the game’s user community is concentrated in a narrow market segment. Such narrowly concentrated niche communities give signals of market demand that, when incorporated into the game, can decrease the game’s appeal to broader audiences. However, responding to the feedback from such concentrated communities is necessary to maintain and grow the user community. Jointly, our theory and results suggest that firms involved in experimentation-driven product innovation with user communities face an engagement dilemma: incorporating feedback from engaged niche communities has the potential to mislead innovation efforts, but ignoring that feedback may stunt the development of the community resource.</details>
 </ul>
@@ -43,4 +43,4 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 **"From Local Modification to Global Innovation: How Foreign Research Units in Emerging Economies Innovate for the World"** with Shad Morris, James Oldroyd, Daniel Chng, and Jian Han.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* 2nd round R&R at *Journal of International Business Studies*  
+<p style="margin-left:5%;size:90%;">** 2nd round R&R at <i>Journal of International Business Studies</i></p>
