@@ -15,7 +15,7 @@ permalink: /research/
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. *Strategic Management Journal* 42(1), 30-57. <a href="https://ryanthomasallen.github.io/Choudhury_Allen_Endres_2021.pdf" title="Machine Learning for Pattern Discovery in Management Research" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169068227-aa207b63-20db-4c76-8cc1-bdb0c5f4bc26.jpg" alt="Machine Learning for Pattern Discovery in Management Research PDF link" style="height: 20px; width: 20px"></a><br>  
 <hr style="border:none;height:1px;">
 
-## Dissertation Chapter Working Papers
+## Dissertation Working Papers
 <hr style="border:1px solid gray">  
 **"Epistemic Plasticity and Innovation in Data-Driven Organizational Cultures"** (Job Market Paper; Dissertation Chapter 2)  
 <p style="margin-left:5%;font-size:85%;">
@@ -36,7 +36,8 @@ permalink: /research/
 <ul>
 <details><summary>Abstract</summary>This study investigates experimentation-driven product innovation in user communities. Prior research has largely focused on the innovation benefits of leveraging users and user communities as an experimentation resource. In this paper, we posit that reaping the innovation-related benefits of experimentation is contingent upon the degree to which the community provides an unbiased representation of the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to community feedback increases games’ commercial performance on average, unless the game’s user community is concentrated in a narrow market segment. Such narrowly concentrated niche communities give signals of market demand that, when incorporated into the game, can decrease the game’s appeal to broader audiences. However, responding to the feedback from such concentrated communities is necessary to maintain and grow the user community. Jointly, our theory and results suggest that firms involved in experimentation-driven product innovation with user communities face an engagement dilemma: incorporating feedback from engaged niche communities has the potential to mislead innovation efforts, but ignoring that feedback may stunt the development of the community resource.</details>
 </ul>
-<hr style="border:none;height:1px;"> 
+<hr style="border:none;height:1px;">  
+  
 ## Other Working Papers
 <hr style="border:1px solid gray">  
 **"The Sequencing of Scaling: Resolving Technological and Market Uncertainty in Entrepreneurial Ventures"** with Aticus Peterson   
