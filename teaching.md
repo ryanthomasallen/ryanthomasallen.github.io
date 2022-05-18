@@ -8,7 +8,7 @@ permalink: /teaching/
 ## Cases
 <hr style="border:1px solid gray">  
 <a href="https://store.hbr.org/product/rural-taobao-alibaba-s-expansion-into-rural-e-commerce/719433?sku=719433-PDF-ENG" target="_blank">"Rural Taobao: Alibaba's Expansion into Rural E-Commerce"</a> with Tarun Khanna, Adam Frost, and Wesley Koo. Harvard Business School Case 719-433, January 2019.
-<hr style="border:none;height:1px;">  
+
 ## Experience
 <hr style="border:1px solid gray">  
 **Leading Change and Organizational Renewal (LCOR)**  
