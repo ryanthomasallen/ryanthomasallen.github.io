@@ -8,7 +8,7 @@ permalink: /research/
 ## Publications
 <hr style="border:1px solid gray">  
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  <a href="https://ryanthomasallen.github.io/Allen_Choudhury_2022.pdf" title="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169068227-aa207b63-20db-4c76-8cc1-bdb0c5f4bc26.jpg" alt="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion PDF link" style="height: 20px; width: 20px"></a><br>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*\* "Best PhD Student Paper" at SMS conference 2020  
+<p style="margin-left:10%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
 <hr style="border:none;height:1px;">  
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. *Strategy Science*. <a href="https://ryanthomasallen.github.io/McDonald_Allen_2021.pdf" title="A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents" target="_blank"><img src="https://user-images.githubusercontent.com/15790129/169068227-aa207b63-20db-4c76-8cc1-bdb0c5f4bc26.jpg" alt="A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents PDF link" style="height: 20px; width: 20px"></a><br>
 <hr style="border:none;height:1px;">  
