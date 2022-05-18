@@ -2,10 +2,10 @@
 
 I am a PhD candidate at Harvard Business School. I conduct research at the intersection of strategy, organization theory, and entrepreneurship.
 
-<a href="https://ryantallen.com/research/#working-papers" target="_blank">My dissertation research</a> is organized around the question: how can innovators anticipate market demand to produce commercially successful innovations? I demonstrate how prior work that extols the benefits of predictive analytics and experimentation is incomplete.
+<a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">My dissertation research</a> is organized around the question: how can innovators anticipate market demand to produce commercially successful innovations? I demonstrate how prior work that extols the benefits of predictive analytics and experimentation is incomplete.
 
 <details><summary><strong>Brief overview of dissertation chapters</strong></summary>
-  See my <a href="https://ryantallen.com/research/#working-papers" target="_blank">research page</a> for full abstracts
+  See my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">research page</a> for full abstracts
 <ul>
 <li>In <strong>chapter 1</strong> of my dissertation, I show that when incumbent products enjoy high market power, new products that initially appeal to niche market segments are more likely to achieve widespread commercial success than products that initially enjoy broad appeal. Therefore, prior to launch, innovations with the most potential for commercial success may systematically appear to have small potential market sizes according to traditional quantitative market-sizing techniques.</li>
   
