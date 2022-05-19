@@ -19,6 +19,7 @@ permalink: /research/
 <hr style="border:1px solid gray">  
 **"Epistemic Plasticity and Innovation in Data-Driven Organizational Cultures"** (Job Market Paper; Dissertation Chapter 2)  
 <p style="margin-left:5%;font-size:85%;">
+  ** "Best Paper" at Strategy Science Conference 2022<br> 
   ** "Best Paper" at Wharton Innovation Doctoral Symposium 2022<br>
   ** Under Review at <i>Administrative Science Quarterly</i>
 </p>
