@@ -1,6 +1,11 @@
 @import "fonts";
 @import "rouge-github";
 
+
+details > summary {
+  font-weight:bold;
+}
+
 body {
   background-color: #fff;
   padding:50px;
