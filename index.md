@@ -2,7 +2,7 @@
 
 I'm a PhD candidate at Harvard Business School. I conduct research at the intersection of innovation strategy, organization theory, and entrepreneurship.
 
-In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I ask: how do organizations anticipate market demand to produce commercially successful innovations? Whereas prior work extols the benefits of analytics and experimentation, I identify circumstances in which these methods can be misleading. Click the dropdown for more details:
+In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I ask: how do organizations anticipate market demand to produce commercially successful innovations? Whereas prior work extols the benefits of analytics and experimentation, I identify when these methods can be misleading. Click for more details:
 
 <details><summary>Click to display a brief dissertation summary</summary>
   See my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">research page</a> for full abstracts
