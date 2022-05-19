@@ -16,8 +16,8 @@ In my <a href="https://ryantallen.com/research/#dissertation-working-papers" tar
 </details><br>
 My dissertation work follows my <a href="https://ryantallen.com/research/#publications" target="_blank">prior publications</a> on <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">algorithms+judgment</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">machine learning methods</a>, and <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">industry dynamics</a>.  
   
-Prior to HBS, I studied Economics at BYU, served a 2-year mission in Taiwan for my church, conducted economic research on environmental health issues, managed at a nonprofit, and worked as data analyst at Amazon. 
+Prior to doctoral studies at HBS, I studied Economics at BYU, served a 2-year mission in Taiwan for my church, conducted economic research on environmental health issues, managed at a nonprofit, and did a stint as data analyst at Amazon. 
 
-As a Utah native, I like hiking, mountain biking, and skiing. I also enjoy reading sci-fi books, and technology/rationalist blogs. I thrive when I'm learning new skills (e.g., guitar, coding, fixing things). My wife and I are building an e-commerce business together. We live in Cambridge, MA with our 3 children.
+As a Utah native, I like hiking, mountain biking, and skiing. I also enjoy reading sci-fi books and technology blogs. I thrive when I'm learning new skills (e.g., guitar, coding, fixing things). I'm having fun helping my wife build an e-commerce business. We live in Cambridge, MA with our 3 children.
   
 Click the links under my picture to <a href="https://ryantallen.com/contact/" target="_blank">contact</a> me, or to see my <a href="https://ryantallen.com/research/" target="_blank">research</a> and <a href="https://ryantallen.com/teaching/" target="_blank">teaching</a> experience.
