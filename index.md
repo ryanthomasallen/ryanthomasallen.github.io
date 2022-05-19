@@ -4,7 +4,7 @@ I'm a PhD candidate at Harvard Business School. I conduct research at the inters
 
 In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I ask: how do organizations anticipate market demand to produce commercially successful innovations? Whereas prior work extols the benefits of analytics and experimentation, I identify circumstances in which these methods can be misleading. Click the dropdown for more details:
 
-<details><summary>Click to display dissertation summary</summary>
+<details><summary>Click to display brief dissertation summary</summary>
   See my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">research page</a> for full abstracts
 <ul>
 <li>In <strong>chapter 1</strong> of my dissertation, I show that when incumbent products enjoy high market power, new products that initially appeal to niche market segments are more likely to achieve widespread commercial success than products that initially enjoy broad appeal. Therefore, prior to launch, innovations with the most potential for commercial success may systematically appear to have small potential market sizes according to traditional quantitative market-sizing techniques.</li>
