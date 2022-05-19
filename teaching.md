@@ -11,6 +11,17 @@ permalink: /teaching/
 
 ## Experience
 <hr style="border:1px solid gray">  
+**Building and Sustaining a Successful Enterprise (BSSE)**  
+HBS Elective Curriculum; 2018 - 2021
+  - Teaching fellow for MBA course on strategy, entrepreneurship, and disruptive innovation
+  - Helped create teaching cases, and teaching and module notes; provided written feedback to students  
+<hr style="border:none;height:1px;">  
+**Leading with People Analytics**  
+HBS Elective Curriculum; 2020
+  - Teaching fellow for MBA course that used the case method to teach data science in the context of people analytics
+  - Led weekly MBA student review sessions teaching statistics and the R programming language
+  - Teaching rating 6.5 / 7 (30 students)  
+<hr style="border:none;height:1px;">   
 **Leading Change and Organizational Renewal (LCOR)**  
 HBS Executive Education; 2022
   - Coached executive education course on innovation and organizational change
@@ -21,18 +32,7 @@ HBS Executive Education; 2022
   - Coached executive education course on general management and leadership
   - Taught management and leadership to chief executives and company owners in small group sessions
   - Conducted one-on-one sessions focused on complex business challenges and personal leadership development 
-<hr style="border:none;height:1px;">    
-**Leading with People Analytics**  
-HBS Elective Curriculum; 2020
-  - Teaching fellow for MBA course that used the case method to teach data science in the context of people analytics
-  - Led weekly MBA student review sessions teaching statistics and the R programming language
-  - Teaching rating 6.5 / 7 (30 students)  
-<hr style="border:none;height:1px;">    
-**Building and Sustaining a Successful Enterprise (BSSE)**  
-HBS Elective Curriculum; 2018
-  - Teaching fellow for MBA course on strategy, entrepreneurship, and disruptive innovation
-  - Assisted preparing course materials; provided written feedback to students  
-<hr style="border:none;height:1px;">  
+<hr style="border:none;height:1px;">     
 **Strategy**  
 Marriott School, Brigham Young University; 2016
   - Teaching assistant for undergraduate strategy course
