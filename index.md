@@ -1,6 +1,6 @@
 # Overview
 
-I'm a PhD candidate at Harvard Business School conducting research at the intersection of innovation strategy, organization theory, and entrepreneurship. I'm on the job market this year (2022-2023), and my dissertation committee is Rory McDonald, Raj Choudhury, and Gary Pisano.
+I'm a PhD candidate at Harvard Business School. I conduct research at the intersection of innovation strategy, organization theory, and entrepreneurship.
 
 In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I ask: how do organizations anticipate market demand to produce commercially successful innovations? Whereas prior work extols the benefits of analytics and experimentation, I identify circumstances in which these methods can be misleading. Click the dropdown for more details:
 
@@ -18,6 +18,6 @@ My dissertation work follows my <a href="https://ryantallen.com/research/#public
   
 Prior to doctoral studies at HBS, I studied Economics at BYU, served a 2-year mission in Taiwan for my church, conducted economic research on environmental health issues, managed at a nonprofit, and did a stint as data analyst at Amazon. 
 
-As a Utah native, I like hiking, mountain biking, and skiing. I also enjoy reading sci-fi books and technology blogs. I thrive when I'm learning new skills (e.g., guitar, coding, fixing things). I'm having fun helping my wife build an e-commerce business. We live in Cambridge, MA with our 3 children.
+As a Utah native, I like hiking, mountain biking, and skiing. I also enjoy reading sci-fi books and technology blogs. I thrive when I'm learning new skills (e.g., guitar, coding, fixing things), and spending time with my family. I live in Cambridge, MA with my wife and 3 children.
   
 Click the links under my picture to <a href="https://ryantallen.com/contact/" target="_blank">contact</a> me, or to see my <a href="https://ryantallen.com/research/" target="_blank">research</a> and <a href="https://ryantallen.com/teaching/" target="_blank">teaching</a> experience.
