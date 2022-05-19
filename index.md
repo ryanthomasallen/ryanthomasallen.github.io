@@ -1,6 +1,6 @@
 # Overview
 
-I'm a PhD candidate at Harvard Business School conducting research at the intersection of innovation strategy, organization theory, and entrepreneurship. I'm on the job market this year (2022-2023). My committee is Rory McDonald, Raj Choudhury, and Gary Pisano.
+I'm a PhD candidate at Harvard Business School conducting research at the intersection of innovation strategy, organization theory, and entrepreneurship. I'm on the job market this year (2022-2023). My dissertation committee is Rory McDonald, Raj Choudhury, and Gary Pisano.
 
 In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I ask: how do organizations anticipate market demand to produce commercially successful innovations? Whereas prior work extols the benefits of analytics and experimentation, I identify circumstances in which these methods can be misleading. Click the dropdown for more details:
 
