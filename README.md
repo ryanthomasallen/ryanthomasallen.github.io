@@ -5,3 +5,6 @@ If you want to make a similar web page for yourself, I found [this site](https:/
 Note to self - I still need to add:
 - (LAYOUT PAGE) An updated picture
 - (TEACHING PAGE) A description of my teaching interests and philosophy
+- (RESEARCH PAGE) Brief description of general research agenda
+- (RESEARCH PAGE) Add abstracts to published papers?
+- (CV) Move teaching section below honors and awards
