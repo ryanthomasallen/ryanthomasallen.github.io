@@ -5,8 +5,5 @@ logo: https://github.com/ryanthomasallen/ryanthomasallen.github.io/blob/main/rya
 # Analytics
 google_analytics: G-2VE8B6C6RX
 url: https://www.ryantallen.com
-- name: generate-sitemap
-  uses: cicirello/generate-sitemap@v1.8.3
-  with:
-    base-url-path: https://www.ryantallen.com
+
 
