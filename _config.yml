@@ -7,5 +7,11 @@ google_analytics: G-2VE8B6C6RX
 url: https://www.ryantallen.com
 gems:
   - jekyll-sitemap
+defaults:
+ -
+   scope:
+     path: "*.pdf"
+   values:
+     sitemap: false
 
 
