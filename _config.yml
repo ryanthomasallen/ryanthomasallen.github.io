@@ -5,5 +5,7 @@ logo: https://github.com/ryanthomasallen/ryanthomasallen.github.io/blob/main/rya
 # Analytics
 google_analytics: G-2VE8B6C6RX
 url: https://www.ryantallen.com
+gems:
+  - jekyll-sitemap
 
 
