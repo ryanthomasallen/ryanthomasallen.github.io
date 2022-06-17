@@ -14,7 +14,7 @@ In my <a href="https://ryantallen.com/research/#dissertation-working-papers" tar
 <li>In <strong>chapter 3</strong>, I shift my focus to product innovation in a different organizational form—user communities. Using longitudinal data on 500 new PC game launches, I show that firms’ innovation trajectories can get derailed when innovators are too responsive to experimentation in highly concentrated user communities that are not representative of the broader market.</li>
 </ul>
 </details><br>
-My dissertation work follows my <a href="https://ryantallen.com/research/#publications" target="_blank">prior publications</a> on <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">algorithms+judgment</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">machine learning methods</a>, and <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">industry dynamics</a>.  
+My dissertation work follows my <a href="https://ryantallen.com/research/#publications" target="_blank">prior publications</a> on <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">algorithms+judgment</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">machine learning methods</a>, innovation in global R&D, and <a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">industry dynamics</a>.  
   
 Before my PhD, I studied Economics at BYU, served a 2-year mission in Taiwan for my church, conducted economic research on environmental health issues, managed at a nonprofit, and did a stint as data analyst at Amazon. 
 
