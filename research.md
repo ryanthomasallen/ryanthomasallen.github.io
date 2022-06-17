@@ -9,7 +9,7 @@ permalink: /research/
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. *Organization Science* 33(1), 149-169.  <a href="https://ryanthomasallen.github.io/Allen_Choudhury_2022.pdf" title="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion" target="_blank">PDF<img src="https://user-images.githubusercontent.com/15790129/169068227-aa207b63-20db-4c76-8cc1-bdb0c5f4bc26.jpg" alt="Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion PDF link" style="height: 20px; width: 20px"></a></p>  
-<p style="margin-left:5%;font-size:85%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
+<p style="margin-left:5%;font-size:95%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
 <ul>
 <details><summary>Click to display Abstract</summary>Past research offers mixed perspectives on whether domain experience helps or hurts algorithm-augmented worker performance. Reconciling these perspectives, we theorize that intermediate levels of domain experience are optimal for algorithm-augmented performance, due to the interplay between two countervailing forces—ability and aversion. Although domain experience can increase performance via increased ability to complement algorithmic advice (e.g., identifying inaccurate predictions), it can also decrease performance via increased aversion to accurate algorithmic advice. Because ability developed through learning by doing increases at a decreasing rate, and algorithmic aversion is more prevalent among experts, we theorize that algorithm-augmented performance will first rise with increasing domain experience, then fall. We test this by exploiting a within-subjects experiment in which corporate information technology support workers were assigned to resolve problems both manually and using an algorithmic tool. We confirm that the difference between performance with the algorithmic tool versus without the tool was characterized by an inverted U-shape over the range of domain experience. Only workers with moderate domain experience did significantly better using the algorithm than resolving tickets manually. These findings highlight that, even if greater domain experience increases workers’ ability to complement algorithms, domain experience can also trigger other mechanisms that overcome the positive ability effect and inhibit performance. Additional analyses and participant interviews suggest that, even though the highest experience workers had the greatest ability to complement the algorithmic tool, they rejected its advice because they felt greater accountability for possible unintended consequences of accepting algorithmic advice.</details>
 </ul>
@@ -39,7 +39,7 @@ permalink: /research/
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Epistemic Plasticity and Innovation in Data-Driven Organizational Cultures"</strong> (Job Market Paper; Dissertation Chapter 2)
 </p>
-<p style="margin-left:5%;font-size:85%;">
+<p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at Strategy Science Conference 2022<br> 
   ** "Best Paper" at Wharton Innovation Doctoral Symposium 2022<br>
 </p>
@@ -47,21 +47,27 @@ permalink: /research/
 <details><summary>Click to display Abstract</summary>A long tradition in innovation research asserts that data-driven organizations excel at incremental innovation, but allocate resources away from less-measurable breakthrough innovations. Questioning this premise, I distinguish the magnitude of an organization’s use of quantitative analysis from the epistemic plasticity of its organizational culture (the extent to which members use different kinds of analyses). I argue that organizations using more quantitative analysis will actually produce more breakthrough innovations—provided that their cultures are plastic enough to use qualitative analysis liberally as well. To test my theory, I measure innovation performance using product-level sales and attribute data for over 3,500 consumer product launches from 61 organizations between 2010 and 2016; I measure use of qualitative and quantitative analyses using natural language processing on employee résumés. I find that increased reliance on quantitative analysis decreases innovation performance when qualitative analysis is low, and, conversely, increases when qualitative analysis is high. Additional analyses show that this relationship is particularly strong for novel products, and in markets characterized by high uncertainty. I also explore antecedents: management fads, not organizational learning, appear to account for excessively data-driven cultures. The paper contributes to organizational theories of innovation, and to research linking organizational culture to strategic performance.</details>
 </ul>
 <hr style="border:none;height:1px;">  
-**"The Market Size Paradox of Niche Product Innovations"** (Dissertation Chapter 1)
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"The Market Size Paradox of Niche Product Innovations"</strong> (Dissertation Chapter 1)
+ </p>
 <ul>
 <details><summary>Click to display Abstract</summary>When do niche product innovations—new products that initially appeal to narrow market segments—achieve widespread commercial success?  To answer this question, I develop an agent-based model of innovation diffusion in a competitive product market. The model varies two important parameters of the market: incumbent market power (the degree to which sales are concentrated in a small number of incumbents), and customer mimesis (the degree to which customers’ preferences depend on other customers’ preferences). The model indicates that niche product innovations are more likely to be big hits than products with broad appeal when incumbent market power and customer mimesis are both high, but less likely when both are low. I empirically validate the model using a consumer panel dataset of over 11,000 new consumer products purchased by about 400,000 consumers from 2006-2019. The results imply a “market size paradox”: under certain conditions, innovations that initially appeal to relatively narrow market niches (as opposed to broad appeal) actually tend to achieve greater widespread commercial success. Thus prior to launch, niche innovations, which have more potential for commercial success, may systematically appear to have small potential market sizes according to traditional market-sizing techniques.</details>
 </ul>
 <hr style="border:none;height:1px;">  
-**"Experimentation-driven Product Innovation in User-Communities: The Engagement Dilemma"** with Rory McDonald and Rob Bremner (Dissertation Chapter 3)  
-<p style="margin-left:5%;font-size:85%;">** In preparation for submission to <i>Organization Science</i></p>
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Experimentation-driven Product Innovation in User-Communities: The Engagement Dilemma"</strong> with Rory McDonald and Rob Bremner (Dissertation Chapter 3)  
+ </p>
+<p style="margin-left:5%;font-size:95%;">** In preparation for submission to <i>Organization Science</i></p>
 <ul>
 <details><summary>Click to display Abstract</summary>This study investigates experimentation-driven product innovation in user communities. Prior research has largely focused on the innovation benefits of leveraging users and user communities as an experimentation resource. In this paper, we posit that reaping the innovation-related benefits of experimentation is contingent upon the degree to which the community provides an unbiased representation of the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to community feedback increases games’ commercial performance on average, unless the game’s user community is concentrated in a narrow market segment. Such narrowly concentrated niche communities give signals of market demand that, when incorporated into the game, can decrease the game’s appeal to broader audiences. However, responding to the feedback from such concentrated communities is necessary to maintain and grow the user community. Jointly, our theory and results suggest that firms involved in experimentation-driven product innovation with user communities face an engagement dilemma: incorporating feedback from engaged niche communities has the potential to mislead innovation efforts, but ignoring that feedback may stunt the development of the community resource.</details>
 </ul>
 <hr style="border:none;height:1px;">  
   
 ## Other Working Papers
-<hr style="border:1px solid gray">  
-**"The Sequencing of Scaling: Resolving Technological and Market Uncertainty in Entrepreneurial Ventures"** with Aticus Peterson   
+<hr style="border:1px solid gray"> 
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"The Sequencing of Scaling: Resolving Technological and Market Uncertainty in Entrepreneurial Ventures"</strong> with Aticus Peterson
+ </p>
 <ul>
 <details><summary>Click to display Abstract</summary>We study how the sequencing of resolving market vs. technical uncertainty affects a startup’s likelihood of successfully scaling. In a quantitative study of almost 2,000 entrepreneurial ventures in the B2B SaaS industry, we find that the most successful ventures balance the growth of the sales department (a proxy for resolving market uncertainty) with the growth of the engineering team (a proxy for resolving technical uncertainty). Ventures that quickly expand the sales team without expanding the engineering team quickly achieve growth, but reach a growth ceiling as they are locked into their initial market with a poorly performing product. Meanwhile, ventures that only expand the engineering team risk resolving the wrong technical problems and thereby never growing at all.</details>
 </ul>
