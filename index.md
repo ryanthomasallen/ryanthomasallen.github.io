@@ -2,7 +2,7 @@
 
 I'm a PhD candidate at Harvard Business School. I conduct research at the intersection of innovation strategy, organization theory, and entrepreneurship.
 
-In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I investigate how organizations make strategic innovation decisions under uncertainty. In contrast to much prior work that extols the benefits of analytics and experimentation, I identify when these methods can be misleading. Click for more details:
+In my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation research</a> I investigate how organizations make strategic innovation decisions under uncertainty. In the context of new product innovation, I identify when relying on analytics and experimentation is beneficial, and when it is misleading. Click for more details:
 
 <details><summary>Click to display a brief dissertation summary</summary>
   See my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">research page</a> for full abstracts
