@@ -37,7 +37,7 @@ permalink: /research/
 ## Dissertation Working Papers
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Epistemic Plasticity and Innovation in Data-Driven Organizational Cultures"</strong> (Job Market Paper; Dissertation Chapter 2)
+<strong>"Epistemic Plasticity and Innovation in Data-Driven Organizational Cultures"</strong> (Job Market Paper; Dissertation Chapter 1)
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at Strategy Science Conference 2022<br> 
@@ -48,7 +48,7 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Market Size Paradox of Niche Product Innovations"</strong> (Dissertation Chapter 1)
+<strong>"The Market Size Paradox of Niche Product Innovations"</strong> (Dissertation Chapter 2)
  </p>
 <ul>
 <details><summary>Click to display Abstract</summary>When do niche product innovations—new products that initially appeal to narrow market segments—achieve widespread commercial success? To answer this question, I develop an agent-based model of innovation diffusion in a competitive product market. The model varies two important parameters of the market: demand heterogeneity (the degree to which customers have heterogeneous preferences), and demand interdependence (the degree to which customers’ demand is influenced by other customers’ demand). The model indicates that niche product innovations are more likely to be commercially successful than broadly appealing products when demand heterogeneity and interdependence are high, but less likely when both are low. I empirically validate the model using a consumer panel dataset of over 11,000 new consumer products purchased by over 400,000 consumers from 2006-2019. The results imply a “market size paradox”: under certain conditions, innovations that initially appeal to relatively narrow market niches (as opposed to broad appeal) actually tend to achieve greater widespread commercial success. Thus prior to launch, niche innovations, which actually have more potential for commercial success, may systematically appear to have small potential market sizes according to traditional market-sizing techniques.</details>
