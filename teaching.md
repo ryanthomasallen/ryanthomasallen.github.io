@@ -16,7 +16,8 @@ permalink: /teaching/
 **Building and Sustaining a Successful Enterprise (BSSE)**  
 HBS Elective Curriculum; 2018 - 2021
   - Teaching fellow for MBA course on strategy, entrepreneurship, and disruptive innovation
-  - Contributed to HBS teaching cases and module notes; provided written feedback to students  
+  - Contributed to HBS teaching cases and module notes; 
+  - Guided students in developing their capstone semester papers, applying course theories to a busines case
 <hr style="border:none;height:1px;">  
 **Leading with People Analytics**  
 HBS Elective Curriculum; 2020
