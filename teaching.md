@@ -14,27 +14,28 @@ permalink: /teaching/
 ## Experience
 <hr style="border:1px solid gray">  
 **Building and Sustaining a Successful Enterprise (BSSE)**  
-HBS Elective Curriculum; 2018 - 2021
-  - Teaching fellow for MBA course on strategy, entrepreneurship, and disruptive innovation
-  - Contributed to HBS teaching cases and module notes; 
-  - Guided students in developing their capstone semester papers, applying course theories to a busines case
+HBS MBA Elective; 2018 - 2021
+  - Teaching fellow for popular course on strategy, entrepreneurship, and disruptive innovation
+  - Helped develop course materials, including teaching cases, teaching notes, and module notes
+  - Guided students in developing capstone semester papers, applying course theories to a busines case
 <hr style="border:none;height:1px;">  
 **Leading with People Analytics**  
-HBS Elective Curriculum; 2020
-  - Teaching fellow for MBA course that used the case method to teach data science in the context of people analytics
-  - Led weekly MBA student review sessions teaching statistics and the R programming language
+HBS MBA Elective; 2020
+  - Teaching fellow for course on using data science to make decisions about people, such as hiring, firing, promotion, team composition, etc.
+  - Led weekly review sessions teaching statistics and the R programming language
   - Teaching rating 6.5 / 7 (30 students)  
 <hr style="border:none;height:1px;">   
 **Leading Change and Organizational Renewal (LCOR)**  
 HBS Executive Education; 2022
-  - Coached executive education course on innovation and organizational change
-  - Led a group of senior executives in applying course theories to develop solutions for their organizational problems  
+  - Coached executives on innovation and organizational change
+  - Led a group of senior executives in applying course theories to develop solutions for their organizational change initiatives  
+  - Teaching Rating: 7 / 7 (8 students)
 <hr style="border:none;height:1px;">    
-**Owner and President Management (OPM)**  
+**Owner / President Management (OPM)**  
 HBS Executive Education; 2022
-  - Coached executive education course on general management and leadership
-  - Taught management and leadership to chief executives and company owners in small group sessions
+  - Taught general management and leadership to chief executives and company owners in small group sessions
   - Conducted one-on-one sessions focused on complex business challenges and personal leadership development 
+  - Teaching Rating: 6.75 / 7 (8 students)
 <hr style="border:none;height:1px;">     
 **Strategy**  
 Marriott School, Brigham Young University; 2016
