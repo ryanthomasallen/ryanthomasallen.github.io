@@ -2,7 +2,7 @@
 
 I'm a PhD candidate at Harvard Business School. I conduct research at the intersection of innovation strategy, organization theory, and entrepreneurship.
 
-I study how data-driven methods, cultural norms, and organizational designs shape highly uncertain strategic decisions in organizations. My <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation</a> focuses on the context of new product innovation. In it, I develop and test new theories to explain when data-driven decisions help or hinder innovation. Click for more details:
+I study how organizational context (technologies, methods, culture, hierarchy) shapes strategic decision-making. My <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">dissertation</a> focuses on the setting of new product innovation. In it, I develop and test new theories to explain when data-driven decision-making helps or hinders innovation. Click for more details:
 
 <details><summary>Click to display a brief dissertation summary</summary>
   See my <a href="https://ryantallen.com/research/#dissertation-working-papers" target="_blank">research page</a> for full abstracts
