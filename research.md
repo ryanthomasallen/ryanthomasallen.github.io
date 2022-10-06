@@ -68,7 +68,7 @@ permalink: /research/
  <strong>"Data-driven Decision-making and Organizational Hierarchy"</strong> with Kramer Quist.
 </p>
 <ul>
-<details><summary>Click to display Abstract</summary>This study develops and empirically tests a formal model for how organizational hierarchy affects demand for data-driven decision-making. The model shows that although data can substitute for hierarchy by establishing a framework for consensus, hierarchy also increases demand for data because hierarchies require legible and commensurable results. We empirically validate the model using data from employee profiles on a career networking website. We use job titles to measure the span of control across levels of hierarchy in 61 consumer product organizations, and job descriptions to measure the prevalance of data-driven decision-making. </details>
+<details><summary>Click to display Abstract</summary>This study develops and empirically tests a formal model for how organizational hierarchy affects demand for data-driven decision-making. The model shows that although data can substitute for hierarchy by establishing a framework for consensus, hierarchy also increases demand for data because hierarchies require legible and commensurable results. We empirically validate the model using data from employee profiles on a career networking website. We use job titles to measure the span of control across levels of hierarchy in 61 consumer product organizations, and job descriptions to measure the prevalence of data-driven decision-making. </details>
 </ul>
 
  
