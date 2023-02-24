@@ -70,10 +70,13 @@ permalink: /research/
 <details><summary>Click to display Abstract</summary>This study develops and empirically tests a formal model for how organizational hierarchy affects demand for data-driven decision-making. The model shows that although data can substitute for hierarchy by establishing a framework for consensus, hierarchy also increases demand for data because hierarchies require legible and commensurable results. We empirically validate the model using data from employee profiles on a career networking website. We use job titles to measure the span of control across levels of hierarchy in 61 consumer product organizations, and job descriptions to measure the prevalence of data-driven decision-making. </details>
 </ul>
 
- 
-
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Sequencing Entrepreneurial Scaling"</strong> with Aticus Peterson
+</p>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Roll the dice: Observable endowments that predict who joins the Unicorn Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin
 </p>
 
