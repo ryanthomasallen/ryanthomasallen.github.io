@@ -14,7 +14,7 @@ permalink: /teaching/
 ## Experience
 <hr style="border:1px solid gray">  
 **Building and Sustaining a Successful Enterprise (BSSE)**  
-HBS MBA Elective; 2018 - 2021
+HBS MBA Elective; 2018 - 2022
   - Teaching fellow for popular course on strategy, entrepreneurship, and disruptive innovation
   - Helped develop course materials, including teaching cases, teaching notes, and module notes
   - Guided students in developing capstone semester papers, applying course theories to a busines case
@@ -26,16 +26,16 @@ HBS MBA Elective; 2020
   - Teaching rating 6.5 / 7 (30 students)  
 <hr style="border:none;height:1px;">   
 **Leading Change and Organizational Renewal (LCOR)**  
-HBS Executive Education; 2022
+HBS Executive Education; 2022 - 2023
   - Coached executives on innovation and organizational change
   - Led a group of senior executives in applying course theories to develop solutions for their organizational change initiatives  
-  - Teaching Rating: 7 / 7 (8 students)
+  - Teaching Rating: 7 / 7 (8 students per group)
 <hr style="border:none;height:1px;">    
 **Owner / President Management (OPM)**  
 HBS Executive Education; 2022
   - Taught general management and leadership to chief executives and company owners in small group sessions
   - Conducted one-on-one sessions focused on complex business challenges and personal leadership development 
-  - Teaching Rating: 6.75 / 7 (8 students)
+  - Teaching Rating: 6.75 / 7 (8 students per group)
 <hr style="border:none;height:1px;">     
 **Strategy**  
 Marriott School, Brigham Young University; 2016
