@@ -34,10 +34,10 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">
 
-## Dissertation Working Papers
+## Working Papers
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Methodological Pluralism and Innovation in Data-Driven Organizational Cultures"</strong> Revise and Resubmit at <i>Administrative Science Quarterly</i> (Job Market Paper; Dissertation Chapter 1)
+<strong>"Methodological Pluralism and Innovation in Data-Driven Organizational Cultures"</strong> Revise and Resubmit at <i>Administrative Science Quarterly</i>
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at Strategy Science Conference 2022<br> 
@@ -48,21 +48,21 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Market Size Paradox of Niche Product Innovations"</strong> (Dissertation Chapter 2)
+<strong>"Market Size Inversion: How Diffusion Dynamics Invert Market Size Expectations for Novel Products"</strong>
  </p>
 <ul>
-<details><summary>Click to display Abstract</summary>When do niche product innovations—new products that initially appeal to narrow market segments—achieve widespread commercial success? To answer this question, I develop an agent-based model of innovation diffusion in a competitive product market. The model varies two important parameters of the market: demand heterogeneity (the degree to which customers have heterogeneous preferences), and demand interdependence (the degree to which customers’ demand is influenced by other customers’ demand). The model indicates that niche product innovations are more likely to be commercially successful than broadly appealing products when demand heterogeneity and interdependence are high, but less likely when both are low. I empirically validate the model using a consumer panel dataset of over 2,000 new consumer product launches. The results imply a “market size paradox”: under certain conditions, innovations that initially appeal to relatively narrow market niches (as opposed to broad appeal) actually tend to achieve greater widespread commercial success. Thus prior to launch, niche innovations, which actually have more potential for commercial success, may systematically appear to have small potential market sizes according to traditional market-sizing techniques.</details>
+<details><summary>Click to display Abstract</summary>This paper seeks to explain the “market size inversion” puzzle: the observation that many breakthrough products achieve success despite low initial expectations, while other products commonly fail despite high projected demand. I explain the puzzle as a function of social diffusion processes. It presents model in which relatively novel products are more ambiguous to evaluate, so potential adopters rely more on neighbors' endorsements in their adoption decision. Therefore, a larger portion of demand does not exist until after the product diffuses, so initial market size estimates for relatively novel products will be downward biased. The model also implies what I call a “market size trap”: because novel products appear to have lower market demand than non-novel products with larger anticipated market sizes, firms that rely too much on quantitative estimates of market size will launch fewer highly novel or breakthrough products. I empirically validate the model using sales and attribute data from 1,600 consumer product launches, combined with measures of firms' use of quantitative market sizing analysis. The paper provides a demand-side framework to complement the existing competition-based strategy explanation for the same puzzle—that breakthroughs are often surprising because if they were not, the opportunity would have been competed away.</details>
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Experimentation-driven Product Innovation in User-Communities: The Engagement Dilemma"</strong> with Rory McDonald and Rob Bremner. Under review at <i>Organization Science</i>. (Dissertation Chapter 3)  
+<strong>"The Limits of Experimentation for Product Innovation in Homogenous User Communities"</strong> with Rory McDonald and Rob Bremner. Under review at <i>Strategic Management Journal</i>. 
  </p>
 <ul>
-<details><summary>Click to display Abstract</summary>This study investigates experimentation-driven product innovation in user communities. Prior research has largely focused on the innovation benefits of leveraging users and user communities as an experimentation resource. In this paper, we posit that reaping the innovation-related benefits of experimentation is contingent upon the degree to which the community provides an unbiased representation of the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to community feedback increases games’ commercial performance on average, unless the game’s user community is concentrated in a narrow market segment. Such narrowly concentrated niche communities give signals of market demand that, when incorporated into the game, can decrease the game’s appeal to broader audiences. However, responding to the feedback from such concentrated communities is necessary to maintain and grow the user community. Jointly, our theory and results suggest that firms involved in experimentation-driven product innovation with user communities face an engagement dilemma: incorporating feedback from engaged niche communities has the potential to mislead innovation efforts, but ignoring that feedback may stunt the development of the community resource.</details>
+<details><summary>Click to display Abstract</summary>This study investigates how firms experiment with user communities to drive market growth for new products. Prior research has largely focused on the benefits of leveraging user communities as a resource for experimentation and feedback in product development. This paper posits a boundary condition: reaping these benefits is contingent on the degree to which the user community accurately represents demand in the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to early user-community feedback increases games’ growth in the market, on average. But this effect is reversed when the feedback comes from a homogenous user community that is concentrated in a narrow market segment. Such homogenous communities can produce signals of market demand that, when incorporated into the game, diminish its appeal to potential customers outside the community. </details>
 </ul>
 <hr style="border:none;height:1px;">  
   
-## Other Working Papers
+## Other Works in Progress
 <hr style="border:1px solid gray"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
  <strong>"Data-driven Decision-making and Organizational Hierarchy"</strong> with Kramer Quist.
@@ -75,9 +75,6 @@ permalink: /research/
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Sequencing of Scaling: Resolving Technological and Market Uncertainty in Entrepreneurial Ventures"</strong> with Aticus Peterson
- </p>
-<ul>
-<details><summary>Click to display Abstract</summary>We study how the sequencing of resolving market vs. technical uncertainty affects a startup’s likelihood of successfully scaling. In a quantitative study of almost 2,000 entrepreneurial ventures in the B2B SaaS industry, we find that the most successful ventures balance the growth of the sales department (a proxy for resolving market uncertainty) with the growth of the engineering team (a proxy for resolving technical uncertainty). Ventures that quickly expand the sales team without expanding the engineering team quickly achieve growth, but reach a growth ceiling as they are locked into their initial market with a poorly performing product. Meanwhile, ventures that only expand the engineering team risk resolving the wrong technical problems and thereby never growing at all.</details>
-</ul>
+<strong>"Sequencing Entrepreneurial Scaling"</strong> with Aticus Peterson
+</p>
 
