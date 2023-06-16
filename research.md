@@ -54,7 +54,7 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Limits of Experimentation for Product Innovation in Homogenous User Communities"</strong> with Rory McDonald and Rob Bremner. Under review at <i>Strategic Management Journal</i>. 
+<strong>"The Limits of Experimentation for Product Innovation in Homogenous User Communities"</strong> with Rory McDonald and Rob Bremner. 
  </p>
 <ul>
 <details><summary>Click to display Abstract</summary>This study investigates how firms experiment with user communities to drive market growth for new products. Prior research has largely focused on the benefits of leveraging user communities as a resource for experimentation and feedback in product development. This paper posits a boundary condition: reaping these benefits is contingent on the degree to which the user community accurately represents demand in the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to early user-community feedback increases games’ growth in the market, on average. But this effect is reversed when the feedback comes from a homogenous user community that is concentrated in a narrow market segment. Such homogenous communities can produce signals of market demand that, when incorporated into the game, diminish its appeal to potential customers outside the community. </details>
