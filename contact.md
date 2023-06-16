@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 ---
 Thank you for visiting my website. I look forward to hearing from you!  
-  
-![Contact info](https://user-images.githubusercontent.com/15790129/167861292-1b54998d-e9c4-458d-96de-d9905f2e0d65.png)
+
+![Contact](https://github.com/ryanthomasallen/ryanthomasallen.github.io/assets/15790129/fd1725d0-96fe-424e-9f16-507559af8efb)
