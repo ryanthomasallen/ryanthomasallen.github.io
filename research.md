@@ -75,11 +75,16 @@ permalink: /research/
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Sequencing Entrepreneurial Scaling"</strong> with Aticus Peterson
+<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin.
+</p>
+<p style="margin-left:5%;font-size:95%;">
+  ** "Best Paper" at AOM 2024<br>
 </p>
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Roll the dice: Observable endowments that predict who joins the Unicorn Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin
+<strong>"Sequencing Entrepreneurial Scaling"</strong> with Aticus Peterson
 </p>
+
+
 
