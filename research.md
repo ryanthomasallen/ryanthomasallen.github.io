@@ -36,7 +36,7 @@ permalink: /research/
 ## Working Papers
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Methodological Pluralism and Innovation in Data-Driven Organizations"</strong> with Rory McDonald. Revise and Resubmit at <i>Administrative Science Quarterly</i>
+<strong>"Methodological Pluralism and Innovation in Data-Driven Organizations"</strong> with Rory McDonald. 2nd Round Revise and Resubmit at <i>Administrative Science Quarterly</i>
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at Strategy Science Conference 2022<br> 
@@ -47,14 +47,17 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Market Size Inversion: How Diffusion Dynamics Invert Market Size Expectations for Novel Products"</strong>
+<strong>"Market Size Inversion: How Diffusion Dynamics Invert Market Size Expectations for Novel Products"</strong>. Reject and Resubmit at <i>Strategic Management Journal</i>
  </p>
+<p style="margin-left:5%;font-size:95%;">
+  ** "Best Paper" at AOM 2024<br>
+</p>
 <ul>
 <details><summary>Click to display Abstract</summary>This paper seeks to explain the “market size inversion” puzzle: the observation that many breakthrough products achieve success despite low initial expectations, while other products commonly fail despite high projected demand. I explain the puzzle as a function of social diffusion processes. It presents model in which relatively novel products are more ambiguous to evaluate, so potential adopters rely more on neighbors' endorsements in their adoption decision. Therefore, a larger portion of demand does not exist until after the product diffuses, so initial market size estimates for relatively novel products will be downward biased. The model also implies what I call a “market size trap”: because novel products appear to have lower market demand than non-novel products with larger anticipated market sizes, firms that rely too much on quantitative estimates of market size will launch fewer highly novel or breakthrough products. I empirically validate the model using sales and attribute data from 1,600 consumer product launches, combined with measures of firms' use of quantitative market sizing analysis. The paper provides a demand-side framework to complement the existing competition-based strategy explanation for the same puzzle—that breakthroughs are often surprising because if they were not, the opportunity would have been competed away.</details>
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Limits of Experimentation for Product Innovation in Homogenous User Communities"</strong> with Rory McDonald and Rob Bremner. 
+<strong>"The Limits of Experimentation for Product Innovation in Homogenous User Communities"</strong> with Rory McDonald and Rob Bremner. Revise and Resubmit at <i>Academy of Management Journal</i>
  </p>
 <ul>
 <details><summary>Click to display Abstract</summary>This study investigates how firms experiment with user communities to drive market growth for new products. Prior research has largely focused on the benefits of leveraging user communities as a resource for experimentation and feedback in product development. This paper posits a boundary condition: reaping these benefits is contingent on the degree to which the user community accurately represents demand in the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to early user-community feedback increases games’ growth in the market, on average. But this effect is reversed when the feedback comes from a homogenous user community that is concentrated in a narrow market segment. Such homogenous communities can produce signals of market demand that, when incorporated into the game, diminish its appeal to potential customers outside the community. </details>
