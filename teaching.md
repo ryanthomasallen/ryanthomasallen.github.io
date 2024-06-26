@@ -13,22 +13,24 @@ permalink: /teaching/
 
 ## Experience
 <hr style="border:1px solid gray">  
+**Strategic Management (MGMT 430)**  
+University of Washington Undergraduate Capstone; 2024-present
+  - Instructor for introductory case method course on Strategic Management
+  - Average teaching rating: 5.0 / 5.0 (50 students per section)
+  - <a href="https://www.ratemyprofessors.com/professor/2990680" target="_blank">Rate my professor reviews</a> 
+<hr style="border:1px solid gray">  
 **Building and Sustaining a Successful Enterprise (BSSE)**  
 HBS MBA Elective; 2018 - 2022
   - Teaching fellow for popular course on strategy, entrepreneurship, and disruptive innovation
-  - Helped develop course materials, including teaching cases, teaching notes, and module notes
-  - Guided students in developing capstone semester papers, applying course theories to a busines case
 <hr style="border:none;height:1px;">  
 **Leading with People Analytics**  
 HBS MBA Elective; 2020
   - Teaching fellow for course on using data science to make decisions about people, such as hiring, firing, promotion, team composition, etc.
-  - Led weekly review sessions teaching statistics and the R programming language
   - Teaching rating 6.5 / 7 (30 students)  
 <hr style="border:none;height:1px;">   
 **Leading Change and Organizational Renewal (LCOR)**  
 HBS Executive Education; 2022 - 2023
-  - Coached executives on innovation and organizational change
-  - Led a group of senior executives in applying course theories to develop solutions for their organizational change initiatives  
+  - Coached a group of senior executives in applying course theories to develop solutions for their organizational change initiatives  
   - Teaching Rating: 7 / 7 (8 students per group)
 <hr style="border:none;height:1px;">    
 **Owner / President Management (OPM)**  
