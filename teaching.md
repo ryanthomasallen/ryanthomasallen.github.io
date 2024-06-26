@@ -15,10 +15,10 @@ permalink: /teaching/
 <hr style="border:1px solid gray">  
 **Strategic Management (MGMT 430)**  
 University of Washington Undergraduate Capstone; 2024-present
-  - Instructor for introductory case method course on Strategic Management
+  - Instructor for introductory Strategic Management course using the case method
   - Average teaching rating: 5.0 / 5.0 (50 students per section)
   - <a href="https://www.ratemyprofessors.com/professor/2990680" target="_blank">Rate my professor reviews</a> 
-<hr style="border:1px solid gray">  
+<hr style="border:none;height:1px;"> 
 **Building and Sustaining a Successful Enterprise (BSSE)**  
 HBS MBA Elective; 2018 - 2022
   - Teaching fellow for popular course on strategy, entrepreneurship, and disruptive innovation
