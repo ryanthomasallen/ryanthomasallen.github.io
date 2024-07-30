@@ -15,7 +15,7 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2021. <i>Strategy Science</i>.</p>
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2022. <i>Strategy Science</i>.</p>
 <ul>
 <details><summary>Click to display Abstract</summary>Previous work has examined how audiences evaluate category-spanning organizations, but little is known about how their entrance affects evaluations of other, proximate organizations. We posit that the emergence of category-spanning entrants signals the advent of an altered future state—and seeds doubt about incumbents’ prospects in a reordered industry-categorization scheme. We test this hypothesis by treating announcements of funding for startups as an information shock to investors evaluating incumbent financial service providers between 2010 and 2017—a period marked by atypical category combinations at FinTech startups. We find that announcements by startups that embodied unusual combinations of categories resulted in lower cumulative average returns for incumbents, both in absolute terms and in comparison with typical startups. Our theory and results contribute to research on categorization in markets and to theories of disruptive innovation and industry evolution.</details>
 </ul>
@@ -43,7 +43,7 @@ permalink: /research/
   ** "Best Paper" at Wharton Innovation Doctoral Symposium 2022<br>
 </p>
 <ul>
-<details><summary>Click to display Abstract</summary>Are data-driven organizations more likely to produce commercially successful new-product innovations? This question evokes polarized viewpoints: some argue that reliance on data helps innovation performance because it aligns new products with observable customer demand; others argue that such reliance harms innovation by allocating resources toward merely incremental innovations, thereby missing the big hits that drive commercial success. We argue that the impact of data on innovation depends on the methodological pluralism of the organization—the extent to which different types of analyses are used. Specifically, we hypothesize that qualitative analysis positively moderates the effect of quantitative analysis on innovation performance. Using data on 3,500 product launches and text from employee résumés at 61 large consumer product firms, we provide evidence that increased quantitative analysis negatively impacts innovation performance when qualitative analysis is low, but positively impacts innovation performance when qualitative analysis is high. Interestingly, the organizations that produced the greatest number of big hits (top 5%) used the most quantitative analysis—but they were pluralistic enough to use qualitative analysis liberally as well. Additional analyses establish how methodological pluralism impacts product novelty, explore the effect of methodological pluralism within (rather than between) organizational members, establish market uncertainty as a boundary condition, and investigate the antecedents of data-driven decision-making in organizations. </details>
+<details><summary>Click to display Abstract</summary>Prior research implies that organizations with data-driven processes for generating and selecting new products produce more incremental innovations, but fewer novel or highly successful hits. This focus on innovation outcomes has, however, obscured the crucial role of different data types in successful innovation. We argue that the data-driven innovation tradeoff does not hold when both quantitative and qualitative analysis are considered together. Organizations that rely heavily on both methods benefit by triangulating quantifiably verifiable demand (which prompts more moderate successes, but fewer hits) with qualitatively discernible potential (which prompts more novelty, but more flops). Although high reliance on either type of analysis individually has little impact on overall new product sales—due to the countervailing strengths and weaknesses inherent in each—together they have a complementary positive impact. Drawing on a unique dataset of 3,768 new-product innovations linked to employee résumé descriptions from 55 consumer-product firms, we find support for our hypothesis. The highest new product sales (and a high number of hits) came from organizations exhibiting methodological pluralism: relatively heavy reliance on both types of analyses. Further mixed-method investigations focused on related outcomes—hits, flops, and novelty—corroborate our theory and offer evidence consistent with its underlying mechanisms. </details>
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
@@ -51,19 +51,28 @@ permalink: /research/
  </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
+  ** Finalist for TIM Best Paper Award AOM 2024<br>
 </p>
 <ul>
-<details><summary>Click to display Abstract</summary>This paper seeks to explain the “market size inversion” puzzle: the observation that many breakthrough products achieve success despite low initial expectations, while other products commonly fail despite high projected demand. I explain the puzzle as a function of social diffusion processes. It presents model in which relatively novel products are more ambiguous to evaluate, so potential adopters rely more on neighbors' endorsements in their adoption decision. Therefore, a larger portion of demand does not exist until after the product diffuses, so initial market size estimates for relatively novel products will be downward biased. The model also implies what I call a “market size trap”: because novel products appear to have lower market demand than non-novel products with larger anticipated market sizes, firms that rely too much on quantitative estimates of market size will launch fewer highly novel or breakthrough products. I empirically validate the model using sales and attribute data from 1,600 consumer product launches, combined with measures of firms' use of quantitative market sizing analysis. The paper provides a demand-side framework to complement the existing competition-based strategy explanation for the same puzzle—that breakthroughs are often surprising because if they were not, the opportunity would have been competed away.</details>
+<details><summary>Click to display Abstract</summary>This study examines "market size inversion": where novel innovations succeed despite initially low market size projections, and traditional innovations fail despite high projections. Contrasting the strategy literature's supply-side competition-centric view, this paper introduces a demand-side model. It posits that because customer evaluations of novel innovations are heavily influenced by early adopters, a significant portion of demand is observable only post-diffusion. Therefore, pre-launch observable demand for novel innovations is downward biased. Utilizing agent-based diffusion simulations and empirical analysis of over 33,000 consumer product launches, the results confirm that novel products outperform non-novel ones with equivalent pre-launch observable market sizes. Further analysis demonstrates that successful innovation selection by firms involves balancing novelty with observable market demand. This paper contributes to the strategic innovation literature by offering a demand-side perspective on the value of novel innovations, and articulating the limits of data-driven innovation.</details>
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Limits of Experimentation for Product Innovation in Homogenous User Communities"</strong> with Rory McDonald and Rob Bremner. Revise and Resubmit at <i>Academy of Management Journal</i>
+<strong>"Listen to Your Users? Self-Selection in User Community Feedback and Commercial Impact"</strong> with Rory McDonald and Rob Bremner. Revise and Resubmit at <i>Academy of Management Journal</i>
  </p>
 <ul>
-<details><summary>Click to display Abstract</summary>This study investigates how firms experiment with user communities to drive market growth for new products. Prior research has largely focused on the benefits of leveraging user communities as a resource for experimentation and feedback in product development. This paper posits a boundary condition: reaping these benefits is contingent on the degree to which the user community accurately represents demand in the broader market. Using longitudinal and interview data on experimental PC game development, we find that adapting games in response to early user-community feedback increases games’ growth in the market, on average. But this effect is reversed when the feedback comes from a homogenous user community that is concentrated in a narrow market segment. Such homogenous communities can produce signals of market demand that, when incorporated into the game, diminish its appeal to potential customers outside the community. </details>
+<details><summary>Click to display Abstract</summary>This study investigates how incorporating feedback from user communities impacts the commercial performance of firms’ new-product innovations. Prior research has found that user community feedback contributes to outcomes such as novelty, technical performance, and within-community appeal. But we argue that for commercial success, there is an overlooked negative consequence of a widely recognized characteristic of user communities: members’ self-selection.  Due to the voluntary nature of participation, user communities attract members with atypical preferences, which may not mirror the broader consumer base. Feedback from such communities may thus produce biased signals of market demand that, when incorporated into a product, diminish its broader commercial appeal. Our analysis of quantitative and qualitative data from experimental PC-game development indicates that developer firms that are highly responsive to feedback from relatively unrepresentative user communities tend to launch games that are less commercially successful. We also investigate why developers nonetheless heed feedback from unrepresentative communities, underscoring the challenges of effectively utilizing communities to develop commercially viable products. </details>
 </ul>
 <hr style="border:none;height:1px;">  
-  
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. Submitting to <i>Organization Science</i>
+</p>
+<p style="margin-left:5%;font-size:95%;">
+  ** "Best Paper" at AOM 2024<br>
+ 
+</p>
 ## Other Works in Progress
 <hr style="border:1px solid gray"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
@@ -72,14 +81,6 @@ permalink: /research/
 <ul>
 <details><summary>Click to display Abstract</summary>This study develops and empirically tests a formal model for how organizational hierarchy affects demand for data-driven decision-making. The model shows that although data can substitute for hierarchy by establishing a framework for consensus, hierarchy also increases demand for data because hierarchies require legible and commensurable results. We empirically validate the model using data from employee profiles on a career networking website. We use job titles to measure the span of control across levels of hierarchy in 61 consumer product organizations, and job descriptions to measure the prevalence of data-driven decision-making. </details>
 </ul>
-
-<hr style="border:none;height:1px;">  
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin.
-</p>
-<p style="margin-left:5%;font-size:95%;">
-  ** "Best Paper" at AOM 2024<br>
-</p>
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
