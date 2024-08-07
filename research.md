@@ -17,7 +17,7 @@ permalink: /research/
 <ul>
 <details><summary>Click to display Abstract</summary>Prior research implies that organizations with data-driven processes for generating and selecting new products produce more incremental innovations, but fewer novel or highly successful hits. This focus on innovation outcomes has, however, obscured the crucial role of different data types in successful innovation. We argue that the data-driven innovation tradeoff does not hold when both quantitative and qualitative analysis are considered together. Organizations that rely heavily on both methods benefit by triangulating quantifiably verifiable demand (which prompts more moderate successes, but fewer hits) with qualitatively discernible potential (which prompts more novelty, but more flops). Although high reliance on either type of analysis individually has little impact on overall new product sales—due to the countervailing strengths and weaknesses inherent in each—together they have a complementary positive impact. Drawing on a unique dataset of 3,768 new-product innovations linked to employee résumé descriptions from 55 consumer-product firms, we find support for our hypothesis. The highest new product sales (and a high number of hits) came from organizations exhibiting methodological pluralism: relatively heavy reliance on both types of analyses. Further mixed-method investigations focused on related outcomes—hits, flops, and novelty—corroborate our theory and offer evidence consistent with its underlying mechanisms. </details>
 </ul>
-<hr style="border:1px solid gray">
+<hr style="border:none;height:1px;"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. <i>Organization Science</i> 33(1), 149-169.</p>  
 <p style="margin-left:5%;font-size:95%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
@@ -45,7 +45,7 @@ permalink: /research/
 <hr style="border:none;height:1px;">
 
 ## Working Papers
-<hr style="border:none;height:1px;">  
+<hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Market Size Inversion: How Diffusion Dynamics Invert Market Size Expectations for Novel Products"</strong>. Reject and Resubmit at <i>Strategic Management Journal</i>
  </p>
@@ -63,8 +63,6 @@ permalink: /research/
 <ul>
 <details><summary>Click to display Abstract</summary>This study investigates how incorporating feedback from user communities impacts the commercial performance of firms’ new-product innovations. Prior research has found that user community feedback contributes to outcomes such as novelty, technical performance, and within-community appeal. But we argue that for commercial success, there is an overlooked negative consequence of a widely recognized characteristic of user communities: members’ self-selection.  Due to the voluntary nature of participation, user communities attract members with atypical preferences, which may not mirror the broader consumer base. Feedback from such communities may thus produce biased signals of market demand that, when incorporated into a product, diminish its broader commercial appeal. Our analysis of quantitative and qualitative data from experimental PC-game development indicates that developer firms that are highly responsive to feedback from relatively unrepresentative user communities tend to launch games that are less commercially successful. We also investigate why developers nonetheless heed feedback from unrepresentative communities, underscoring the challenges of effectively utilizing communities to develop commercially viable products. </details>
 </ul>
-<hr style="border:none;height:1px;">  
-
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. Submitting to <i>Organization Science</i>
