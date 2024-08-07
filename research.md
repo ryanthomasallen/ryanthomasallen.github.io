@@ -8,6 +8,17 @@ permalink: /research/
 ## Publications
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Methodological Pluralism and Innovation in Data-Driven Organizations"</strong> with Rory McDonald. 2024. Conditionally Accepted at <i>Administrative Science Quarterly</i>
+</p>
+<p style="margin-left:5%;font-size:95%;">
+  ** "Best Paper" at Strategy Science Conference 2022<br> 
+  ** "Best Paper" at Wharton Innovation Doctoral Symposium 2022<br>
+</p>
+<ul>
+<details><summary>Click to display Abstract</summary>Prior research implies that organizations with data-driven processes for generating and selecting new products produce more incremental innovations, but fewer novel or highly successful hits. This focus on innovation outcomes has, however, obscured the crucial role of different data types in successful innovation. We argue that the data-driven innovation tradeoff does not hold when both quantitative and qualitative analysis are considered together. Organizations that rely heavily on both methods benefit by triangulating quantifiably verifiable demand (which prompts more moderate successes, but fewer hits) with qualitatively discernible potential (which prompts more novelty, but more flops). Although high reliance on either type of analysis individually has little impact on overall new product sales—due to the countervailing strengths and weaknesses inherent in each—together they have a complementary positive impact. Drawing on a unique dataset of 3,768 new-product innovations linked to employee résumé descriptions from 55 consumer-product firms, we find support for our hypothesis. The highest new product sales (and a high number of hits) came from organizations exhibiting methodological pluralism: relatively heavy reliance on both types of analyses. Further mixed-method investigations focused on related outcomes—hits, flops, and novelty—corroborate our theory and offer evidence consistent with its underlying mechanisms. </details>
+</ul>
+<hr style="border:1px solid gray">
+<p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. <i>Organization Science</i> 33(1), 149-169.</p>  
 <p style="margin-left:5%;font-size:95%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
 <ul>
@@ -34,17 +45,6 @@ permalink: /research/
 <hr style="border:none;height:1px;">
 
 ## Working Papers
-<hr style="border:1px solid gray">
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Methodological Pluralism and Innovation in Data-Driven Organizations"</strong> with Rory McDonald. 2nd Round Revise and Resubmit at <i>Administrative Science Quarterly</i>
-</p>
-<p style="margin-left:5%;font-size:95%;">
-  ** "Best Paper" at Strategy Science Conference 2022<br> 
-  ** "Best Paper" at Wharton Innovation Doctoral Symposium 2022<br>
-</p>
-<ul>
-<details><summary>Click to display Abstract</summary>Prior research implies that organizations with data-driven processes for generating and selecting new products produce more incremental innovations, but fewer novel or highly successful hits. This focus on innovation outcomes has, however, obscured the crucial role of different data types in successful innovation. We argue that the data-driven innovation tradeoff does not hold when both quantitative and qualitative analysis are considered together. Organizations that rely heavily on both methods benefit by triangulating quantifiably verifiable demand (which prompts more moderate successes, but fewer hits) with qualitatively discernible potential (which prompts more novelty, but more flops). Although high reliance on either type of analysis individually has little impact on overall new product sales—due to the countervailing strengths and weaknesses inherent in each—together they have a complementary positive impact. Drawing on a unique dataset of 3,768 new-product innovations linked to employee résumé descriptions from 55 consumer-product firms, we find support for our hypothesis. The highest new product sales (and a high number of hits) came from organizations exhibiting methodological pluralism: relatively heavy reliance on both types of analyses. Further mixed-method investigations focused on related outcomes—hits, flops, and novelty—corroborate our theory and offer evidence consistent with its underlying mechanisms. </details>
-</ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Market Size Inversion: How Diffusion Dynamics Invert Market Size Expectations for Novel Products"</strong>. Reject and Resubmit at <i>Strategic Management Journal</i>
