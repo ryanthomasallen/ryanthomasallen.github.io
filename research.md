@@ -44,10 +44,10 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">
 
-## Working Papers
+## Working Papers Submitted or Under Review (titles altered for anonymity)
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Market Size Inversion: How Diffusion Dynamics Invert Market Size Expectations for Novel Products"</strong>. Reject and Resubmit at <i>Strategic Management Journal</i>
+<strong>"Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</strong>. Reject and Resubmit at <i>Strategic Management Journal</i>
  </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
@@ -58,14 +58,22 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Listen to Your Users? Self-Selection in User Community Feedback and Commercial Impact"</strong> with Rory McDonald and Rob Bremner. Revise and Resubmit at <i>Academy of Management Journal</i>
+<strong>"“Self-Selection in User Community Feedback and Commercial Performance"</strong> with Rory McDonald and Rob Bremner. Revise and Resubmit at <i>Academy of Management Journal</i>
  </p>
 <ul>
 <details><summary>Click to display Abstract</summary>This study investigates how incorporating feedback from user communities impacts the commercial performance of firms’ new-product innovations. Prior research has found that user community feedback contributes to outcomes such as novelty, technical performance, and within-community appeal. But we argue that for commercial success, there is an overlooked negative consequence of a widely recognized characteristic of user communities: members’ self-selection.  Due to the voluntary nature of participation, user communities attract members with atypical preferences, which may not mirror the broader consumer base. Feedback from such communities may thus produce biased signals of market demand that, when incorporated into a product, diminish its broader commercial appeal. Our analysis of quantitative and qualitative data from experimental PC-game development indicates that developer firms that are highly responsive to feedback from relatively unrepresentative user communities tend to launch games that are less commercially successful. We also investigate why developers nonetheless heed feedback from unrepresentative communities, underscoring the challenges of effectively utilizing communities to develop commercially viable products. </details>
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. Submitting to <i>Organization Science</i>
+<strong>"The Performance Effects of Startups Using Qualitative Feedback and Controlled Experiments Are Contingent on Product Stability"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. Submitted to <i>Strategic Management Journal</i>
+</p>
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Submitted to <i>Organization Science</i>
+</p>
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. 
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
@@ -85,5 +93,8 @@ permalink: /research/
 <strong>"Sequencing Entrepreneurial Scaling"</strong> with Aticus Peterson
 </p>
 
-
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Cultural authenticity in new ventures as a double-edged sword: a competitive resource and constraint to market scope"</strong> with Rohan Radke
+</p>
 
