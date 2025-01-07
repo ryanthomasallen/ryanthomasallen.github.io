@@ -8,7 +8,7 @@ permalink: /research/
 ## Publications
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Methodological Pluralism and Innovation in Data-Driven Organizations"</strong> with Rory McDonald. 2024. Conditionally Accepted at <i>Administrative Science Quarterly</i>
+<a href="https://papers.ssrn.com/abstract_id=5045477" target="_blank">"Methodological Pluralism and Innovation in Data-Driven Organizations"</a> with Rory McDonald. 2024. Conditionally Accepted at <i>Administrative Science Quarterly</i>
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at Strategy Science Conference 2022<br> 
@@ -47,7 +47,7 @@ permalink: /research/
 ## Working Papers Submitted or Under Review (titles altered for anonymity)
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</strong>. Reject and Resubmit at <i>Strategic Management Journal</i>
+<a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>. Reject and Resubmit at <i>Strategic Management Journal</i>
  </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
