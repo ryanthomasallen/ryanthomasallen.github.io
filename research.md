@@ -8,7 +8,7 @@ permalink: /research/
 ## Publications
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/abstract_id=5045477" target="_blank">"Methodological Pluralism and Innovation in Data-Driven Organizations"</a> with Rory McDonald. 2024. Conditionally Accepted at <i>Administrative Science Quarterly</i>
+<a href="https://journals.sagepub.com/doi/pdf/10.1177/00018392251313737" target="_blank">"Methodological Pluralism and Innovation in Data-Driven Organizations"</a> with Rory McDonald. 2025. <i>Administrative Science Quarterly</i>
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at Strategy Science Conference 2022<br> 
