@@ -44,10 +44,10 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">
 
-## Working Papers Submitted or Under Review (titles altered for anonymity)
+## Working Papers Submitted or Under Review (some titles altered for anonymity)
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>. Reject and Resubmit at <i>Strategic Management Journal</i>
+<a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
  </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
@@ -58,26 +58,25 @@ permalink: /research/
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Self-Selection in User Community Feedback and Commercial Performance"</strong> with Rory McDonald and Rob Bremner. Revise and Resubmit at <i>Academy of Management Journal</i>
+<strong>"Self-Selection in User Community Feedback and Commercial Performance"</strong> with Rory McDonald and Rob Bremner. 2nd Round Revise and Resubmit at <i>Academy of Management Journal</i>
  </p>
 <ul>
 <details><summary>Click to display Abstract</summary>Prior research on community innovation demonstrates that incorporating feedback from communities in product development leads to a range of desirable outcomes including more novel and technically superior products with lower development costs.  But, drawing from the sample selection bias literature, we propose that such feedback may dampen commercial success. Due to the voluntary nature of participation, user-communities may attract members with atypical preferences who self-select into the community because of a particular interest in and enthusiasm for the product. We argue that their feedback may not represent the broader addressable market, producing niche signals of market demand. When incorporated into a product, these signals can diminish its broader commercial appeal. Our analysis of quantitative and qualitative data from PC-game development in Steam Early Access confirms our theory: developers that heavily incorporate feedback from relatively unrepresentative communities launch games that are less commercially successful.  We further theorize and empirically explore why unrepresentative feedback is difficult to detect and avoid. Product developers have limited control over who participates in community feedback; the immediate positive reactions to feedback incorporation from users within the community can thus obscure a development trajectory that ultimately dampens commercial success in the broader market.  </details>
 </ul>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Performance Effects of Startups Using Qualitative Feedback and Controlled Experiments Are Contingent on Product Stability"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. Submitted to <i>Strategic Management Journal</i>
+<strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Organization Science</i>
 </p>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Submitted to <i>Organization Science</i>
+<strong>"Methodological Fit and Entrepreneurship"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. 
 </p>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. 
+<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. Submitted to <i>Academy of Management Journal</i>
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
- 
 </p>
 ## Other Works in Progress
 <hr style="border:1px solid gray"> 
