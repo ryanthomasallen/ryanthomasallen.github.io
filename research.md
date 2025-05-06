@@ -45,7 +45,8 @@ permalink: /research/
 <hr style="border:none;height:1px;">
 
 ## Working Papers Submitted or Under Review (some titles altered for anonymity)
-<hr style="border:none;height:1px;">
+
+<hr style="border:1px solid gray">
 <p style="text-indent: -2em; padding-left: 2em;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239555" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald.
 </p>
@@ -54,7 +55,7 @@ permalink: /research/
   </details>
 </ul>
 
-<hr style="border:1px solid gray">
+<hr style="border:none;height:1px;">
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
  </p>
@@ -103,6 +104,6 @@ permalink: /research/
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Cultural authenticity in new ventures as a double-edged sword: a competitive resource and constraint to market scope"</strong> with Rohan Radke
+<strong>"Cultural authenticity in new ventures as a double-edged sword: a competitive resource and constraint to market scope"</strong> with Rohan Radke and Ming Zhu Wang
 </p>
 
