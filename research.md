@@ -45,6 +45,15 @@ permalink: /research/
 <hr style="border:none;height:1px;">
 
 ## Working Papers Submitted or Under Review (some titles altered for anonymity)
+<hr style="border:none;height:1px;">
+<p style="text-indent: -2em; padding-left: 2em;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239555" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald.
+</p>
+<ul>
+  <details><summary>Click to display Abstract</summary>AI research has introduced several benchmarks tracking how large language models (LLMs) have rapidly advanced in lower-level tasks such as math, science, reading comprehension, and coding. Yet no systematic evaluation criteria currently exist to assess LLMs' unaided performance in strategic decision-making. The absence of a reliable benchmark limits strategy scholars' ability to answer fundamental questions about AI's capacity to augment or automate core strategic management decisions. We propose that AI's performance on established strategy teaching simulations offers a promising benchmark, as these exercises replicate the complexity and uncertainty of strategic decision-making in a controlled, validated, and replicable environment. In this paper, we benchmark the performance of OpenAI's models on the Back Bay Battery simulation, a widely used exercise in courses on strategy and innovation. Designed to test decision-making under uncertainty, the simulation requires participants to balance trade-offs between short-term profitability and long-term competitive positioning, while integrating diverse information about customer preferences, competitive moves, and evolving technologies over extended time horizons. We created an interface that allows AI to interact with the simulation without any fine-tuning or prompting beyond the information available within the simulation itself. We find that OpenAI's latest o3-mini model performs on par with MBA students from a top school. Other recent models (GPT-4o, o1-mini), while not as strong as o3-mini, significantly outperform earlier versions (GPT-4, GPT-3.5), although the pace of progress appears to have slowed. Beyond showing that AI can make effective strategic decisions, our simulation-based approach offers a useful empirical benchmark for tracking its future development.
+  </details>
+</ul>
+
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
