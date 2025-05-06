@@ -2,7 +2,7 @@
 
 I'm an Assistant Professor in the Management and Organization department at the University of Washington.
 
-I study how organizations use data and AI in innovation. My <a href="https://ryantallen.com/research/" target="_blank">research</a> projects fall under two broad research streams.
+I study how organizations use data and AI in innovation. My research projects fall under two broad research streams.
 
 In one research stream, I study how organizations use data and experimentation to identify innovation opportunities with significant commercial potential. For example, my most recent paper, <a href="https://journals.sagepub.com/doi/10.1177/00018392251313737" target="_blank">Methodological Pluralism and Innovation in Data-driven Organizations</a>, explains when data-driven innovation approaches can be misleading and when they can be helpful.
 
