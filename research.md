@@ -51,7 +51,7 @@ permalink: /research/
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239555" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald.
 </p>
 <ul>
-  <details><summary>Click to display Abstract</summary>Large language models (LLMs) have advanced rapidly on benchmarks in many domains including math, science, reading comprehension, and coding. Yet no systematic criteria exist to evaluate their performance in strategic decision-making. We propose that established strategy teaching simulations can offer such a benchmark, as they are designed to approximate the complexity and uncertainty of real-world decision-making, albeit in a controlled, replicable setting. 
+<details><summary>Click to display Abstract</summary>Large language models (LLMs) have advanced rapidly on benchmarks in many domains including math, science, reading comprehension, and coding. Yet no systematic criteria exist to evaluate their performance in strategic decision-making. We propose that established strategy teaching simulations can offer such a benchmark, as they are designed to approximate the complexity and uncertainty of real-world decision-making, albeit in a controlled, replicable setting. 
 
 In this paper, we evaluate 17 proprietary LLMs from top providers (OpenAI, Anthropic, Google, and xAI) on the Back Bay Battery (BBB) simulation, a widely used exercise in strategy and innovation courses. The simulation requires balancing short-term profitability against long-term competitive positioning while integrating information on customer preferences and technological change. 
 
@@ -63,8 +63,7 @@ Overall, these results represent impressive performance and progression in the s
 
 Our simulation-based benchmarking approach provides a framework for strategy researchers to evaluate empirical studies in light of future progression in AI models, and for guiding technical researchers in future LLM development.
 
-View the up-to-date benchmark scores, and the full GitHub repository at: <a href="https://ryantallen.github.io/bbb_benchmark/" target="_blank">"https://ryantallen.github.io/bbb_benchmark/"
-  </details>
+View the up-to-date benchmark scores, and the full GitHub repository at: <a href="https://ryantallen.github.io/bbb_benchmark/" target="_blank">https://ryantallen.github.io/bbb_benchmark/</details>
 </ul>
 
 <hr style="border:none;height:1px;">
