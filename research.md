@@ -63,7 +63,8 @@ Overall, these results represent impressive performance and progression in the s
 
 Our simulation-based benchmarking approach provides a framework for strategy researchers to evaluate empirical studies in light of future progression in AI models, and for guiding technical researchers in future LLM development.
 
-View the up-to-date benchmark scores, and the full GitHub repository at: <a href="https://ryantallen.github.io/bbb_benchmark/" target="_blank">https://ryantallen.github.io/bbb_benchmark/</details>
+View the up-to-date benchmark scores, and the full GitHub repository at: <a href="https://ryantallen.github.io/bbb_benchmark/" target="_blank">https://ryantallen.github.io/bbb_benchmark/</a> 
+</details>
 </ul>
 
 <hr style="border:none;height:1px;">
