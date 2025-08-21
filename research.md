@@ -94,7 +94,7 @@ View the up-to-date benchmark scores, and the full GitHub repository at: <a href
 </p>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. Submitted to <i>Academy of Management Journal</i>
+<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin.
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
