@@ -9,7 +9,7 @@ permalink: /research/
 
 <hr style="border:1px solid gray">
 <p style="text-indent: -2em; padding-left: 2em;">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239555" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald. Accepted at Strategy Science.
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239555" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald. Accepted at <i>Strategy Science</i>.
 </p>
 <ul>
 <details><summary>Click to display Abstract</summary>Benchmarks have helped fuel rapid progress in large language models (LLMs) across a variety of domains including math, science, dialogue, and coding. Yet no existing benchmark adequately captures the defining elements of strategic decision-making: uncertainty, complexity, irreversible multi-period moves, and delayed or noisy feedback. This gap limits our ability to assess and guide LLMs’ capabilities in strategy. 
