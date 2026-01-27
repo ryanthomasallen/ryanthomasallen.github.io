@@ -6,7 +6,36 @@ permalink: /research/
 # Research
 
 ## Publications
+
 <hr style="border:1px solid gray">
+<p style="text-indent: -2em; padding-left: 2em;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239555" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald. Accepted at Strategy Science.
+</p>
+<ul>
+<details><summary>Click to display Abstract</summary>Benchmarks have helped fuel rapid progress in large language models (LLMs) across a variety of domains including math, science, dialogue, and coding. Yet no existing benchmark adequately captures the defining elements of strategic decision-making: uncertainty, complexity, irreversible multi-period moves, and delayed or noisy feedback. This gap limits our ability to assess and guide LLMs’ capabilities in strategy. 
+
+We propose that established strategy teaching simulations provide an ideal benchmarking approach because (1) they approximate the essential features of real-world strategy, and (2) they do so in a controlled, replicable environment suitable for evaluation. To demonstrate this, we assess the performance of 21 proprietary and 13 open-source LLMs on the Back Bay Battery (BBB) simulation, a widely used exercise in strategy and innovation courses. The simulation requires balancing short-term profitability against long-term competitive positioning while integrating complex information about customer preferences and technological change. We built an interface enabling LLMs to interact with the simulation as though encountering it for the first time, masking identifiers to reduce contamination from prior training data. 
+
+Our results show clear progress in composite BBB performance: later models generally outperform earlier versions, and reasoning-focused models from late 2024–early 2025 (e.g., o4-mini, Claude Sonnet 4, Gemini 2.0 Flash) exceed even the average scores of historical MBA student cohorts. However, frontier models from mid-to-late 2025 (e.g., GPT-5, Claude Opus 4.5, Gemini 3) have declined, underperforming both earlier LLMs and MBA students. This decline is partially explained by a systematic bias toward exploiting the core business at the expense of investing in future growth. 
+
+Overall, these findings highlight impressive advances in LLMs’ strategic abilities since their inception. At the same time, we document current frontier models’ surprising weakness in managing strategic uncertainty. This paper pioneers and provides guidance for using simulation-based benchmarking as a productive framework for strategy researchers to track progress, identify blind spots, and shape the trajectory of strategy-specific LLM capabilities.
+
+See latest results <a href = "https://ryantallen.github.io/bbb_benchmark_public/">HERE</a>
+
+Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">HERE</a>
+
+</details>
+</ul>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Listen to Your Users? Self-Selection in User Community Feedback and Commercial Impact"</strong> with Rory McDonald and Rob Bremner. Accepted at <i>Academy of Management Journal</i>
+ </p>
+<ul>
+<details><summary>Click to display Abstract</summary>Firms increasingly involve user communities in product development, and prior research documents many benefits in idea generation, knowledge sharing, and cost reduction. We theorize, however, that incorporating market feedback about products from these communities can harm products’ commercial performance. Because community feedback is volunteered by self-selected participants rather than sampled to represent the broader market, it may mislead firms when narrow community preferences diverge from mainstream demand. We predict that greater incorporation of community feedback will increase positive evaluations of a product within the community, but undermine its broader commercial success when there are strong user self-selection pressures (like for initially niche-targeted games). We test this theory in the PC video game industry using Steam Early Access, where developers integrate community feedback prior to release. Using a multi-method design that combines large-scale archival analyses with interviews of developers, executives, and community members, we find that feedback incorporation during Early Access improves post-launch commercial outcomes of games only when the Early Access community closely mirrors the distribution of users in the broader Steam market. But in unrepresentative communities—even large ones—greater incorporation predicts lower post-launch revenues despite favorable community evaluations.</details>
+</ul>
+<hr style="border:1px solid gray">
+
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://journals.sagepub.com/doi/pdf/10.1177/00018392251313737" target="_blank">"Methodological Pluralism and Innovation in Data-Driven Organizations"</a> with Rory McDonald. 2025. <i>Administrative Science Quarterly</i>
 </p>
@@ -46,15 +75,6 @@ permalink: /research/
 
 ## Working Papers Submitted or Under Review (some titles altered for anonymity)
 
-<hr style="border:1px solid gray">
-<p style="text-indent: -2em; padding-left: 2em;">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239555" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald.
-</p>
-<ul>
-<details><summary>Click to display Abstract</summary>Benchmarks have helped fuel rapid progress in large language models (LLMs) across a variety of domains including math, science, dialogue, and coding. Yet no existing benchmark adequately captures the defining elements of strategic decision-making: uncertainty, complexity, irreversible multi-period moves, and delayed or noisy feedback. This gap limits our ability to assess and guide LLMs’ capabilities in strategy. We propose that established strategy teaching simulations provide an ideal benchmarking approach because (1) they approximate the essential features of real-world strategy, and (2) they do so in a controlled, replicable environment suitable for evaluation. To demonstrate this, we assess the performance of 17 proprietary and 13 open-source LLMs on the Back Bay Battery (BBB) simulation, a widely used exercise in strategy and innovation courses. The simulation requires balancing short-term profitability against long-term competitive positioning while integrating complex information about customer preferences and technological change. We built an interface enabling LLMs to interact with the simulation as though encountering it for the first time, masking identifiers to reduce contamination from prior training data. Our results show clear progress in composite BBB performance: later models generally outperform earlier versions, and reasoning-focused models from late 2024–early 2025 (e.g., grok3, o3-mini, Claude Sonnet 4) exceed even the average scores of historical MBA student cohorts. However, frontier models from mid-2025 (GPT-5, Gemini 2.5-Pro) have declined, underperforming both earlier LLMs and MBA students. This decline is partially explained by a systematic bias toward exploiting the core business at the expense of investing in future growth. Overall, these findings highlight both the impressive gains in LLMs’ strategic abilities and a concerning vulnerability: while state-of-the-art models continue to advance on benchmarks in coding, dialogue, and science, their capacity to manage strategic uncertainty has declined. Simulation-based benchmarking offers a powerful framework for strategy researchers to track progress, identify blind spots, and shape the trajectory of strategy-specific LLM capabilities.
-</details>
-</ul>
-
 <hr style="border:none;height:1px;">
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
@@ -66,13 +86,7 @@ permalink: /research/
 <ul>
 <details><summary>Click to display Abstract</summary>This study offers a demand-side explanation for why many novel innovations succeed despite initially small observable market sizes. Diffusion theory suggests that the ambiguity of relatively novel product innovations leads potential customers to base their adoption decisions more heavily on others' adoption. As a result, a significant portion of demand only materializes post-diffusion. I posit that this dynamic obfuscates the true commercial potential of novel innovations when estimates are based on pre-launch observable demand. Agent-based simulations support this theory, showing that novel products outperform non-novel ones with similar initial market sizes. I also explore the model’s implications for firms’ innovation selection processes. The findings complement supply-side strategic innovation theories and highlight the limitations of heavily relying on data-driven, observable market demand in innovation.</details>
 </ul>
-<hr style="border:none;height:1px;">  
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Self-Selection in User Community Feedback and Commercial Performance"</strong> with Rory McDonald and Rob Bremner. 2nd Round Revise and Resubmit at <i>Academy of Management Journal</i>
- </p>
-<ul>
-<details><summary>Click to display Abstract</summary>Prior research on community innovation demonstrates that incorporating feedback from communities in product development leads to a range of desirable outcomes including more novel and technically superior products with lower development costs.  But, drawing from the sample selection bias literature, we propose that such feedback may dampen commercial success. Due to the voluntary nature of participation, user-communities may attract members with atypical preferences who self-select into the community because of a particular interest in and enthusiasm for the product. We argue that their feedback may not represent the broader addressable market, producing niche signals of market demand. When incorporated into a product, these signals can diminish its broader commercial appeal. Our analysis of quantitative and qualitative data from PC-game development in Steam Early Access confirms our theory: developers that heavily incorporate feedback from relatively unrepresentative communities launch games that are less commercially successful.  We further theorize and empirically explore why unrepresentative feedback is difficult to detect and avoid. Product developers have limited control over who participates in community feedback; the immediate positive reactions to feedback incorporation from users within the community can thus obscure a development trajectory that ultimately dampens commercial success in the broader market.  </details>
-</ul>
+
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Organization Science</i>
