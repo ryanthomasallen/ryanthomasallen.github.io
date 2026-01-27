@@ -34,7 +34,7 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 <ul>
 <details><summary>Click to display Abstract</summary>Firms increasingly involve user communities in product development, and prior research documents many benefits in idea generation, knowledge sharing, and cost reduction. We theorize, however, that incorporating market feedback about products from these communities can harm products’ commercial performance. Because community feedback is volunteered by self-selected participants rather than sampled to represent the broader market, it may mislead firms when narrow community preferences diverge from mainstream demand. We predict that greater incorporation of community feedback will increase positive evaluations of a product within the community, but undermine its broader commercial success when there are strong user self-selection pressures (like for initially niche-targeted games). We test this theory in the PC video game industry using Steam Early Access, where developers integrate community feedback prior to release. Using a multi-method design that combines large-scale archival analyses with interviews of developers, executives, and community members, we find that feedback incorporation during Early Access improves post-launch commercial outcomes of games only when the Early Access community closely mirrors the distribution of users in the broader Steam market. But in unrepresentative communities—even large ones—greater incorporation predicts lower post-launch revenues despite favorable community evaluations.</details>
 </ul>
-<hr style="border:1px solid gray">
+<hr style="border:none;height:1px;">  
 
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://journals.sagepub.com/doi/pdf/10.1177/00018392251313737" target="_blank">"Methodological Pluralism and Innovation in Data-Driven Organizations"</a> with Rory McDonald. 2025. <i>Administrative Science Quarterly</i>
@@ -75,7 +75,7 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 ## Working Papers Submitted or Under Review (some titles altered for anonymity)
 
-<hr style="border:none;height:1px;">
+<hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
  </p>
