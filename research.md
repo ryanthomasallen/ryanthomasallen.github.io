@@ -31,6 +31,9 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Listen to Your Users? Self-Selection in User Community Feedback and Commercial Impact"</strong> with Rory McDonald and Rob Bremner. Accepted at <i>Academy of Management Journal</i>
  </p>
+ <p style="margin-left:5%;font-size:95%;">
+  ** "Best Paper" at NBES 2026 conference<br>
+</p>
 <ul>
 <details><summary>Click to display Abstract</summary>Firms increasingly involve user communities in product development, and prior research documents many benefits in idea generation, knowledge sharing, and cost reduction. We theorize, however, that incorporating market feedback about products from these communities can harm products’ commercial performance. Because community feedback is volunteered by self-selected participants rather than sampled to represent the broader market, it may mislead firms when narrow community preferences diverge from mainstream demand. We predict that greater incorporation of community feedback will increase positive evaluations of a product within the community, but undermine its broader commercial success when there are strong user self-selection pressures (like for initially niche-targeted games). We test this theory in the PC video game industry using Steam Early Access, where developers integrate community feedback prior to release. Using a multi-method design that combines large-scale archival analyses with interviews of developers, executives, and community members, we find that feedback incorporation during Early Access improves post-launch commercial outcomes of games only when the Early Access community closely mirrors the distribution of users in the broader Steam market. But in unrepresentative communities—even large ones—greater incorporation predicts lower post-launch revenues despite favorable community evaluations.</details>
 </ul>
@@ -89,12 +92,24 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293738" target="_blank">"Intelligence Without Integrity: Why Capable LLMs May Undermine Reliability"</a>. with Aticus Peterson. Under Review at <i>Organization Science</i>
+</p>
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Methodological Fit and Entrepreneurship"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. 
+</p>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Organization Science</i>
 </p>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Methodological Fit and Entrepreneurship"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. 
 </p>
+
+
+
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin.
@@ -102,22 +117,5 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
 </p>
-## Other Works in Progress
-<hr style="border:1px solid gray"> 
-<p style = "text-indent: -2em; padding-left: 2em;">
- <strong>"Data-driven Decision-making and Organizational Hierarchy"</strong> with Kramer Quist.
-</p>
-<ul>
-<details><summary>Click to display Abstract</summary>This study develops and empirically tests a formal model for how organizational hierarchy affects demand for data-driven decision-making. The model shows that although data can substitute for hierarchy by establishing a framework for consensus, hierarchy also increases demand for data because hierarchies require legible and commensurable results. We empirically validate the model using data from employee profiles on a career networking website. We use job titles to measure the span of control across levels of hierarchy in 61 consumer product organizations, and job descriptions to measure the prevalence of data-driven decision-making. </details>
-</ul>
 
-<hr style="border:none;height:1px;">  
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Sequencing Entrepreneurial Scaling"</strong> with Aticus Peterson
-</p>
-
-<hr style="border:none;height:1px;">  
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Cultural authenticity in new ventures as a double-edged sword: a competitive resource and constraint to market scope"</strong> with Rohan Radke and Ming Zhu Wang
-</p>
 
