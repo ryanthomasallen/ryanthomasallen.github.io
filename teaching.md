@@ -8,6 +8,10 @@ permalink: /teaching/
 ## Cases
 <hr style="border:1px solid gray"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
+<a href="https://coursepacker.com/cases" target="_blank">"OpenAI: The $730 Billon Question"</a>. Coursepacker Case, March 2026.
+</p>
+<hr style="border:1px solid gray"> 
+<p style = "text-indent: -2em; padding-left: 2em;">
 <a href="https://store.hbr.org/product/rural-taobao-alibaba-s-expansion-into-rural-e-commerce/719433?sku=719433-PDF-ENG" target="_blank">"Rural Taobao: Alibaba's Expansion into Rural E-Commerce"</a> with Tarun Khanna, Adam Frost, and Wesley Koo. Harvard Business School Case 719-433, January 2019.
 </p>
 
