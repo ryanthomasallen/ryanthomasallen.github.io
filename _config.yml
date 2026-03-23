@@ -1,17 +1,17 @@
 theme: jekyll-theme-minimal
+lang: en
 title: Ryan T. Allen
-description: Ryan T. Allen | Harvard Business School
-logo: https://github.com/ryanthomasallen/ryanthomasallen.github.io/blob/main/ryan_allen_portrait.jpg?raw=true
+description: "Ryan T. Allen | Assistant Professor at BYU | Research on AI, Innovation, and Data-Driven Organizations"
+logo: /ryan_allen_portrait.jpg
 # Analytics
 google_analytics: G-2VE8B6C6RX
 url: https://www.ryantallen.com
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 defaults:
  -
    scope:
      path: "*.pdf"
    values:
      sitemap: false
-
-

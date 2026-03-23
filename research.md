@@ -2,6 +2,8 @@
 layout: default
 title: "Research"
 permalink: /research/
+description: "Publications and working papers by Ryan T. Allen on AI strategy, data-driven innovation, and machine learning in management."
+last_modified_at: 2026-03-23
 ---
 # Research
 
@@ -9,7 +11,7 @@ permalink: /research/
 
 <hr style="border:1px solid gray">
 <p style="text-indent: -2em; padding-left: 2em;">
-  <a href="https://pubsonline.informs.org/doi/full/10.1287/stsc.2025.0444" target="_blank">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald. <i>Strategy Science</i>.
+  <a href="https://pubsonline.informs.org/doi/full/10.1287/stsc.2025.0444" target="_blank" rel="noopener noreferrer">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald. <i>Strategy Science</i>.
 </p>
 <ul>
 <details><summary>Click to display Abstract</summary>Benchmarks have helped fuel rapid progress in large language models (LLMs) across a variety of domains including math, science, dialogue, and coding. Yet no existing benchmark adequately captures the defining elements of strategic decision-making: uncertainty, complexity, irreversible multi-period moves, and delayed or noisy feedback. This gap limits our ability to assess and guide LLMs’ capabilities in strategy. 
@@ -40,7 +42,7 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 <hr style="border:none;height:1px;">  
 
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://journals.sagepub.com/doi/pdf/10.1177/00018392251313737" target="_blank">"Methodological Pluralism and Innovation in Data-Driven Organizations"</a> with Rory McDonald. 2025. <i>Administrative Science Quarterly</i>
+<a href="https://journals.sagepub.com/doi/pdf/10.1177/00018392251313737" target="_blank" rel="noopener noreferrer">"Methodological Pluralism and Innovation in Data-Driven Organizations"</a> with Rory McDonald. 2025. <i>Administrative Science Quarterly</i>
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at Strategy Science Conference 2022<br> 
@@ -51,26 +53,26 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 </ul>
 <hr style="border:none;height:1px;"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. <i>Organization Science</i> 33(1), 149-169.</p>  
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2021.1554" target="_blank" rel="noopener noreferrer">"Algorithm-Augmented Work and Domain Experience: The Countervailing Forces of Ability and Aversion"</a> with Raj Choudhury. 2022. <i>Organization Science</i> 33(1), 149-169.</p>  
 <p style="margin-left:5%;font-size:95%;">**"Best PhD Student Paper" at SMS conference 2020</p>  
 <ul>
 <details><summary>Click to display Abstract</summary>Past research offers mixed perspectives on whether domain experience helps or hurts algorithm-augmented worker performance. Reconciling these perspectives, we theorize that intermediate levels of domain experience are optimal for algorithm-augmented performance, due to the interplay between two countervailing forces—ability and aversion. Although domain experience can increase performance via increased ability to complement algorithmic advice (e.g., identifying inaccurate predictions), it can also decrease performance via increased aversion to accurate algorithmic advice. Because ability developed through learning by doing increases at a decreasing rate, and algorithmic aversion is more prevalent among experts, we theorize that algorithm-augmented performance will first rise with increasing domain experience, then fall. We test this by exploiting a within-subjects experiment in which corporate information technology support workers were assigned to resolve problems both manually and using an algorithmic tool. We confirm that the difference between performance with the algorithmic tool versus without the tool was characterized by an inverted U-shape over the range of domain experience. Only workers with moderate domain experience did significantly better using the algorithm than resolving tickets manually. These findings highlight that, even if greater domain experience increases workers’ ability to complement algorithms, domain experience can also trigger other mechanisms that overcome the positive ability effect and inhibit performance. Additional analyses and participant interviews suggest that, even though the highest experience workers had the greatest ability to complement the algorithmic tool, they rejected its advice because they felt greater accountability for possible unintended consequences of accepting algorithmic advice.</details>
 </ul>
 <hr style="border:none;height:1px;"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2022. <i>Strategy Science</i>.</p>
+<a href="https://pubsonline.informs.org/doi/abs/10.1287/stsc.2021.0130" target="_blank" rel="noopener noreferrer">"A Spanner in the Works: Category-Spanning Entrants and Audience Valuation of Incumbents"</a> with Rory McDonald. 2022. <i>Strategy Science</i>.</p>
 <ul>
 <details><summary>Click to display Abstract</summary>Previous work has examined how audiences evaluate category-spanning organizations, but little is known about how their entrance affects evaluations of other, proximate organizations. We posit that the emergence of category-spanning entrants signals the advent of an altered future state—and seeds doubt about incumbents’ prospects in a reordered industry-categorization scheme. We test this hypothesis by treating announcements of funding for startups as an information shock to investors evaluating incumbent financial service providers between 2010 and 2017—a period marked by atypical category combinations at FinTech startups. We find that announcements by startups that embodied unusual combinations of categories resulted in lower cumulative average returns for incumbents, both in absolute terms and in comparison with typical startups. Our theory and results contribute to research on categorization in markets and to theories of disruptive innovation and industry evolution.</details>
 </ul>
 <hr style="border:none;height:1px;"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. <i>Strategic Management Journal</i> 42(1), 30-57.</p>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3215" target="_blank" rel="noopener noreferrer">"Machine Learning for Pattern Discovery in Management Research"</a> with Raj Choudhury and Michael Endres. 2021. <i>Strategic Management Journal</i> 42(1), 30-57.</p>
 <ul>
 <details><summary>Click to display Abstract</summary>Supervised machine learning (ML) methods are a powerful toolkit for discovering robust patterns in quantitative data. The patterns identified by ML could be used for exploratory inductive or abductive research, or for post hoc analysis of regression results to detect patterns that may have gone unnoticed. However, ML models should not be treated as the result of a deductive causal test. To demonstrate the application of ML for pattern discovery, we implement ML algorithms to study employee turnover at a large technology company. We interpret the relationships between variables using partial dependence plots, which uncover surprising nonlinear and interdependent patterns between variables that may have gone unnoticed using traditional methods. To guide readers evaluating ML for pattern discovery, we provide guidance for evaluating model performance, highlight human decisions in the process, and warn of common misinterpretation pitfalls. The Supporting Information section provides code and data to implement the algorithms demonstrated in this article</details>
 </ul>
 <hr style="border:none;height:1px;">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://link.springer.com/article/10.1057/s41267-022-00570-2" target="_blank">"From Local Modification to Global Innovation: How Research Units in Emerging Economies Innovate for the World"</a> with Shad Morris, James Oldroyd, Daniel Chng, and Jian Han. 2023. <i>Journal of International Business Studies</i>. </p>
+<a href="https://link.springer.com/article/10.1057/s41267-022-00570-2" target="_blank" rel="noopener noreferrer">"From Local Modification to Global Innovation: How Research Units in Emerging Economies Innovate for the World"</a> with Shad Morris, James Oldroyd, Daniel Chng, and Jian Han. 2023. <i>Journal of International Business Studies</i>. </p>
 <ul>
 <details><summary>Click to display Abstract</summary>More and more companies are turning to emerging markets as sources of global innovation to help transform business and society. However, building innovation capabilities in emerging markets is still elusive for most companies. To understand how some companies are successfully building these capabilities, we examined workers within R&amp;D units in China across six foreign multinational corporations. In contrast with prior literature that emphasizes a structural view of who the workers interacted with to innovate, our inductive analysis highlights a behavioral view of how R&amp;D unit personnel interact during the problem and solution search process. We identified two key behaviors associated with the problem and solution search: (1) observing customers in their everyday context, and (2) uncovering general knowledge principles from internal experts. Respectively, these behaviors helped R&amp;D workers to question assumptions about existing products as they relate to customers and to apply useful principles from expert knowledge rather than copying solution templates. Our findings offer an alternative path to building global innovation capabilities in markets where structural constraints exist for the company.</details>
 </ul>
@@ -80,7 +82,7 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
+<a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
  </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
@@ -92,7 +94,7 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293738" target="_blank">"Intelligence Without Integrity: Why Capable LLMs May Undermine Reliability"</a>. with Aticus Peterson. Under Review at <i>Organization Science</i>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293738" target="_blank" rel="noopener noreferrer">"Intelligence Without Integrity: Why Capable LLMs May Undermine Reliability"</a>. with Aticus Peterson. Under Review at <i>Organization Science</i>
 </p>
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
@@ -103,14 +105,7 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Organization Science</i>
 </p>
-<hr style="border:none;height:1px;">  
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Methodological Fit and Entrepreneurship"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. 
-</p>
-
-
-
-<hr style="border:none;height:1px;">  
+<hr style="border:none;height:1px;">
 <p style = "text-indent: -2em; padding-left: 2em;">
 <strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin.
 </p>
