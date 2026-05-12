@@ -15,49 +15,55 @@ The Innovation Research Lab is a group of BYU undergraduate and MBA students wor
 **Current Projects**
 
 - <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a> — a demand-side explanation for why many novel innovations succeed despite small initial market signals.
-- **Blended Finance & Follow-On Growth** — whether blended finance spurs follow-on growth for development-focused ventures in Africa (e.g., solar).
+- **Blended Finance & Follow-On Growth In Developing Economies** — whether blended finance spurs follow-on growth for development-focused ventures (e.g., solar) in Africa.
 
 **Current Students**
 
-- **Conner Rice** — rising senior, Business Strategy.
-- **George Bingham** — rising sophomore, targeting Business Strategy.
-- **Thomas Newell** — BYU alum and Kellogg MBA, targeting PhD applications.
+- **Conner Rice** — rising senior.
+- **George Bingham** — rising sophomore.
+- **Thomas Newell** — BYU alum.
 
-## For Prospective Members
+## Interested in Joining the Lab?
 <hr style="border:1px solid gray">
+
+If you're not sure whether a PhD is a good option for you, reach out and I'm happy to chat prior to any formal lab work.
+
+If you know you are interested in joining the lab, know that I have limited student slots. But if you're interested it's always worth a conversation to see what we can do! Read on below.
+
 
 **How to Join**
 
 1. **Reach out.** <a href="/contact/">Contact me</a> and send your resume or CV.
-2. **Pick a paper.** Choose one from the <a href="/research/">Research</a> page and come in for a conversation about why you liked it and your goals.
-3. **Volunteer task.** If it's a fit and I have capacity, I'll give you a short data-collection or literature-review task (a few hours).
-4. **Trial period.** I may then hire you for a one-semester trial — projects plus lab meetings.
-5. **Mutual fit check.** I assess your proactivity, responsiveness, and willingness to learn; you assess the work and grade me as a mentor.
-6. **Long-term commitment.** If both sides agree, you become a full member committed through graduation, so I can count on you and you can help train the next cohort. If not a fit, no hard feelings — but I don't want you to stay without committing.
+2. **Pick a paper.** Choose one of my papers from the <a href="/research/">Research</a> page and come in prepared for a conversation about why you liked it 
+3. **Initial Conversation.** We will find a time for you to meet in my office to discuss the paper you are interested in, and your motivations for joining the lab.
+3. **Volunteer task.** If it seems like a fit and I have capacity, I'll give you a short data-collection or literature-review task (a few hours).
+4. **Trial period.** If that goes well for both of us, I may then hire you for a one-semester trial — beginning project work plus lab meetings.
+5. **Final checkpoint.** At the end of the trial period, we assess "fit" both ways. I assess your proactivity, responsiveness, and willingness to learn; you assess the work and grade me as a mentor.
+6. **Long-term commitment.** If we both agree, you become a full member of the lab committed through graduation so I can count on you and you can help train the next cohort. If not a fit, no hard feelings — but I don't want you to stay without committing
 
 <hr style="border:none;height:1px;">
 
-**The Ideal Student**
+**The Ideal Lab Member**
 
 - Seriously considering a **PhD in strategy or innovation**.
-- A **junior or younger** (or first-year MBA), so there's time to be trained and contribute meaningfully.
-- A **business, social-science, or STEM major** — business, economics, math, statistics, sociology, etc.
-- Has taken **basic econometrics or statistics** (e.g., Econ 388 / 488).
-- Has **basic coding** knowledge (self-taught or a class like CS 142).
+- A **junior or younger** (or first-year MBA), so there's time to be trained and contribute meaningfully. Trying to join the lab a few months prior to graduating / applying to PhDs is less helpful.
+- Probably a **business, social-science, or STEM major** — business, economics, math, statistics, sociology, etc. There are exceptions, but only if strongly interested in a strategy/innovation PhD.
+- Has taken or will soon take **econometrics or statistics** (e.g., Econ 388 / 488).
+- Ideally, has **basic coding** knowledge (self-taught or through classes like CS 142) or desire and willingness to learn. You will also receive some on-the-job training in this.
 
-The biggest requirement, though, is **commitment and proactivity**. You won't know how to do most of what I ask — I want you to learn how to learn and proactively solve problems. My goal is to work with you like a **coauthor**, not a boss. I'll give guidance, but you should be the driving force on your projects.
+The most important overall requirement is **commitment and proactivity**. You won't know how to do most of what I ask — I want you to proactively solve problems and "learn how to learn". My goal is to work with you like a **coauthor**, not a boss that has to tell you every task. I'll give guidance, but you should be the driving force on your projects.
 
 <hr style="border:none;height:1px;">
 
 **Work Structure**
 
-Rather than grunt tasks AI can do, I assign you to a specific paper or project — usually paired with another student — and your job is to push it forward, using me for support. The ultimate goal of every project is publication in a top-tier academic journal.
+Rather than assigning just one-off grunt tasks, I would assign you to a specific paper or project — usually paired with another student — and your job is to push it forward, using me for support. The ultimate goal of every project is publication in a top-tier academic journal.
 
 <hr style="border:none;height:1px;">
 
 **Benefits to Lab Members**
 
-- **PhD-level mentorship** in real academic research on strategy and innovation.
+- **PhD-level project-based mentorship** in real academic research on strategy and innovation.
 - **Strong letters of recommendation** for graduate school for students who perform well.
 - A **campus job** at standard Marriott School undergraduate RA pay.
 - **Practical skills** in statistical analysis, coding, and the academic research process.
@@ -66,7 +72,7 @@ Rather than grunt tasks AI can do, I assign you to a specific paper or project �
 
 **Time Commitment & Pay**
 
-- **1-hour weekly lab meeting** for project updates and training.
+- **1-hour weekly lab meeting** for project updates, coordination, and training.
 - **10–15 hours per week** of project work, as needed.
 - **Standard Marriott School undergrad RA pay.**
 
