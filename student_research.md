@@ -1,27 +1,29 @@
 ---
 layout: default
-title: "Student Innovation Research Lab"
+title: "Innovation Research Lab"
 permalink: /student-research/
 description: "Ryan T. Allen's Innovation Research Lab at BYU — undergraduate and MBA students collaborating on academic research in strategy and innovation."
 last_modified_at: 2026-05-11
 ---
-# Student Innovation Research Lab
+# Innovation Research Lab
 
 ## About the Lab
 <hr style="border:1px solid gray">
 
-The Innovation Research Lab is a group of BYU undergraduate and MBA students working with Professor Ryan Allen to produce publishable academic research on innovation, strategy, and growth. Students are paired on real projects and mentored at a PhD-research level, with the goal of publishing in top-tier academic journals.
+The Innovation Research Lab is a group of BYU undergraduate and MBA students working with Professor Ryan Allen to produce publishable academic research on innovation, strategy, and growth. Students are paired on real projects and mentored at a PhD-research level, with the primary goal of publishing in top-tier academic journals. We also occasionally build teaching materials (cases and simulations) on strategy and innovation topics.
 
 **Current Projects**
 
-- <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a> — a demand-side explanation for why many novel innovations succeed despite small initial market signals.
-- **Blended Finance & Follow-On Growth In Developing Economies** — whether blended finance spurs follow-on growth for development-focused ventures (e.g., solar) in Africa.
+- <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a> — an academic research paper investigating demand-side explanations for why many novel innovations succeed despite small initial market signals.
+- **Blended Finance & Follow-On Growth In Developing Economies** — an academic research paper whether blended finance spurs follow-on growth for development-focused ventures (e.g., solar) in Africa.
+- **Strategy AI simulation** - a non-research project building a strategy simulation to be used primarily for teaching in Strategy classes
 
 **Current Students**
 
-- **Conner Rice** — rising senior.
+- **Conner Rice** — rising senior in Strategy.
 - **George Bingham** — rising sophomore.
 - **Thomas Newell** — BYU alum.
+- **Caleb Haymore** - rising senior in Finance.
 
 ## Interested in Joining the Lab?
 <hr style="border:1px solid gray">
