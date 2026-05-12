@@ -15,15 +15,13 @@ The Innovation Research Lab is a group of BYU undergraduate and MBA students wor
 **Current Projects**
 
 - <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a> — an academic research paper investigating demand-side explanations for why many novel innovations succeed despite small initial market signals.
-- **Blended Finance & Follow-On Growth In Developing Economies** — an academic research paper whether blended finance spurs follow-on growth for development-focused ventures (e.g., solar) in Africa.
 - **Strategy AI simulation** - a non-research project building a strategy simulation to be used primarily for teaching in Strategy classes
 
 **Current Students**
 
-- **Conner Rice** — rising senior in Strategy.
-- **George Bingham** — rising sophomore.
-- **Thomas Newell** — BYU alum.
-- **Caleb Haymore** - rising senior in Finance.
+- **Conner Rice** — Head Research Assistant. Rising senior in Strategy.
+- **George Bingham** — Research Assistant. Rising sophomore.
+- **Caleb Haymore** - Product Manager for AI simulation. rising senior in Finance.
 
 ## Interested in Joining the Lab?
 <hr style="border:1px solid gray">
