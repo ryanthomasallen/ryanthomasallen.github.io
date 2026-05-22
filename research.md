@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 permalink: /research/
 description: "Publications and working papers by Ryan T. Allen on AI strategy, data-driven innovation, and machine learning in management."
-last_modified_at: 2026-03-23
+last_modified_at: 2026-05-22
 ---
 # Research
 
@@ -31,7 +31,7 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Listen to Your Users? Self-Selection in User Community Feedback and Commercial Impact"</strong> with Rory McDonald and Rob Bremner. Accepted at <i>Academy of Management Journal</i>
+<a href="https://journals.aom.org/doi/10.5465/amj.2024.0178" target="_blank" rel="noopener noreferrer">"Listen to Your Users? Self-Selection in User Community Feedback and Commercial Impact"</a> with Rory McDonald and Rob Bremner. 2026. <i>Academy of Management Journal</i>.
  </p>
  <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at NBES 2026 conference<br>
@@ -78,11 +78,16 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 </ul>
 <hr style="border:none;height:1px;">
 
-## Working Papers Submitted or Under Review (some titles altered for anonymity)
+## Working Papers Submitted or Under Review
 
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a>.
+<strong>"The Organizational Structure Implications of Solo Founding vs. Co-Founding"</strong> with Todd Hall. Revise and Resubmit at <i>Academy of Management Journal</i>.
+</p>
+
+<hr style="border:none;height:1px;">
+<p style = "text-indent: -2em; padding-left: 2em;">
+<a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a> with Conner Rice. Submitted to AOM 2025 / Under Review.
  </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
@@ -94,20 +99,52 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293738" target="_blank" rel="noopener noreferrer">"Intelligence Without Integrity: Why Capable LLMs May Undermine Reliability"</a>. with Aticus Peterson. Under Review at <i>Organization Science</i>
+<strong>"Controlled Experiments in Uncontrolled Environments: The Limits of A/B Testing in Startups"</strong> with Travis Howell, Todd Hall, and Anavir Shermon. Revise and Resubmit at <i>Organization Science</i>.
 </p>
+<ul>
+<details><summary>Click to display Abstract</summary>Startups increasingly rely on controlled experiments such as A/B testing to navigate uncertainty as they grow. We theorize and show that the methodological rigor these experiments demand often clashes with the volatile realities of entrepreneurship. Theorizing "entrepreneurs as scientists," we contend that, as in academic research, valid inference requires certain methodological conditions: a stable data-generating process, ceteris paribus, and a sufficient sample size. Yet these conditions are often violated in startups’ uncertain and dynamic environment, and we theorize that experimental feedback becomes distorted in practice when these conditions are violated. Using panel data on 1,558 U.S. e-commerce startups from 2017–2023, we confirm that while A/B testing is associated with higher performance on average, this positive association significantly weakens, and sometimes even reverses, when these conditions are not met.</details>
+</ul>
+
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Methodological Fit and Entrepreneurship"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. 
+<strong>"Organizing for Adaptation: Does Managerial Hierarchy Help or Hinder Product Adaptation in Startups?"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Organization Science</i>.
+</p>
+<ul>
+<details><summary>Click to display Abstract</summary>Prior research portrays hierarchy in startups as a tradeoff: enhancing coordination but constraining adaptability. We challenge this view by asking: under what conditions does managerial hierarchy hinder or enable product adaptation in startups? Using a question-driven approach with data on 3,832 U.S. e-commerce startups from 2017–2023, we find that adding hierarchical layers is positively associated with product adaptation. This relationship strengthens when coordination demands are higher—specifically, when startups exhibit greater workforce specialization and product component interdependence—and weakens when managerial intensity is excessive. Moreover, hierarchy amplifies the performance benefits of adaptation across website visits, unique users, and engagement time. Together, these findings challenge the prevailing tradeoff view, suggesting that hierarchy should not be viewed solely as a constraint on adaptation but as an enabler when adaptation requires coordination.</details>
+</ul>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293738" target="_blank" rel="noopener noreferrer">"Intelligence Without Integrity: Why Capable LLMs May Undermine Reliability"</a> with Aticus Peterson. Under Review at <i>Organization Science</i>.
+</p>
+<ul>
+<details><summary>Click to display Abstract</summary>As LLMs become embedded in research workflows and organizational decision processes, their effect on analytical reliability remains uncertain. We distinguish two dimensions of analytical reliability—intelligence (the capacity to reach correct conclusions) and integrity (the stability of conclusions when analytically irrelevant cues about desired outcomes are introduced)—and ask whether frontier LLMs possess both. Whether these dimensions trade off is theoretically ambiguous: the sophistication enabling accurate analysis may also enable responsiveness to non-evidential cues, or alternatively, greater capability may confer protection through better calibration and discernment. Using synthetically generated data with embedded ground truth, we evaluate fourteen models on a task simulating empirical analysis of hospital merger effects. We find that intelligence and integrity trade off: frontier models most likely to reach correct conclusions under neutral conditions are often most susceptible to shifting conclusions under motivated framing. We extend work on sycophancy by introducing goal-conditioned analytical sycophancy: sensitivity of inference to cues about desired outcomes, even when no belief is asserted and evidence is held constant. Unlike simple prompt sensitivity, models shift conclusions away from objective evidence in response to analytically irrelevant framing. This finding has important implications for empirical research and organizations. Selecting tools based on capability benchmarks may inadvertently select against the stability needed for reliable and replicable analysis.</details>
+</ul>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"LLMs as Belief Amplifiers: How Human Mental Representations Shape AI-Augmented Strategy"</strong> with Mana Heshmati, Michael Lenox, Rory McDonald, and Maelle A. Perez. Working paper.
+</p>
+<ul>
+<details><summary>Click to display Abstract</summary>Artificial Intelligence (AI) systems based on Large Language Models (LLMs) have made rapid progress in general intelligence capabilities (e.g., programming, dialogue, and exam performance), but they may struggle with strategy problems marked by high complexity, multi-period dynamism, and uncertainty. Meanwhile, strategy research on cognition has demonstrated that good decisions depend not just on general intelligence, but on the mental representations managers use to simplify, interpret, and act in such complex settings. We therefore ask: how does using LLMs affect human strategic decision-making, and how do mental representations moderate any such effects? Taking an abductive approach, we empirically scrutinize these questions in a classroom experiment of participants (N≈200) using the Back Bay Battery strategy simulation in a 2×2 randomized design: treatment of access to an LLM (OpenAI’s o4-mini), and treatment of prior training in disruption theory. We find that among active LLM users, the effect of using the LLM hinged on their mental representation: without disruption training, greater LLM use led to more investment in the simulation’s legacy profitable yet declining business; with disruption training, greater LLM use increased investment in the emerging technology. Text analysis of chat logs indicates a mental representation mechanism: trained participants issue technology-focused prompts that pushed back more on the LLM, whereas untrained participants were focused on other aspects of the simulation (e.g., product pricing) and pushed back less on the LLM’s responses. These results are consistent with the theory that LLMs function as belief amplifiers. Paired with forward-looking mental representations, the LLM interaction ultimately reinforces forward-looking strategies; absent them, they entrench backward-looking exploitation. We suggest that a key role of strategists in the age of AI is to supply the most useful representation, framework, or theory for a given situation.</details>
+</ul>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Does AI Redirect What Firms Innovate In?"</strong> Working paper.
+</p>
+<ul>
+<details><summary>Click to display Abstract</summary>After the November 2022 ChatGPT shock, do firms shift the <i>direction</i> of corporate R&amp;D toward AI-complementary technology classes, in proportion to the AI-complementarity of their pre-2022 patent portfolio? Using PatentsView assignees matched to Compustat (3,714 firms, 2014–2025) and a CPC-based measure of class-level AI-complementarity (r = 0.65 across two construction methods), a continuous-treatment event-study DiD finds a directionally correct but marginal effect on filing direction: β̂(Exposure × Post) = 0.022 (SE 0.013, p ≈ 0.09), sign-stable across all robustness columns. The citation-linkage alternative measure reaches p ≈ 0.05. Pre-trends are marginal on direction (p = 0.08) and violated on exploration/exploitation (p = 0.01); the design needs a fuzzy patent–Compustat crosswalk and more post-period publication data to be a paper.</details>
+</ul>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Blended Finance in Africa"</strong> with Thomas Newell. Working paper.
 </p>
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Organization Science</i>
-</p>
-<hr style="border:none;height:1px;">
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin.
+<strong>"How Predictable is Exceptional Growth in Entrepreneurship? Using Machine Learning to Predict Who Joins the Unicorn Venture Club"</strong> with Suresh Kotha, Ben Hallen, Sung Ho Park, and Joseph Shin. Working paper.
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
