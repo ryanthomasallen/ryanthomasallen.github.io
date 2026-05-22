@@ -10,7 +10,7 @@ last_modified_at: 2026-03-23
 ## Cases
 <hr style="border:1px solid gray"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://coursepacker.com/cases" target="_blank" rel="noopener noreferrer">"OpenAI: The $730 Billon Question"</a>. Coursepacker Case, March 2026.
+<a href="https://coursepacker.com/cases" target="_blank" rel="noopener noreferrer">"OpenAI: The $730 Billion Question"</a>. Coursepacker Case, March 2026.
 </p>
 <hr style="border:1px solid gray"> 
 <p style = "text-indent: -2em; padding-left: 2em;">
