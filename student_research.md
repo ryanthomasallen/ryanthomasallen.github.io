@@ -17,7 +17,7 @@ The Innovation Research Lab is a group of BYU undergraduate and MBA students wor
 - <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a> — an academic research paper investigating demand-side explanations for why many novel innovations succeed despite small initial market signals.
 - "The impact of firm LLM adoption on innovation outcomes" — an academic research paper investigating how the extent of manufacturing and pharma firms' adoption of LLMs since 2022 has impacted innovation outcomes.
 - "The role of blended finance in African entrepreneurship" — an academic research paper investigating how blended finance institutions promote innovation and growth in African startups.
-- **Strategy AI simulation** — a non-research project building a strategy simulation to be used primarily for teaching in Strategy classes.
+- Strategy AI simulation — a non-research project building a strategy simulation to be used primarily for teaching in Strategy classes.
 
 **Current Students**
 
