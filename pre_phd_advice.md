@@ -25,9 +25,7 @@ _Content coming soon._
 
 If you already know you want to do a PhD in business, the next question is where you should apply.
 
-Business PhDs are highly fragmented, and it's not always obvious which programs are what you are looking for. I often have students come into my office knowing they want to study a phenomenon that interests them (like "I'm interested in how organizations use metrics" or "I'm interested in how AI will change innovation"). That's a good starting point, but it isn't enough to answer which types of programs will work for you. 
-
-You need to know which field you are interested in, and within that field which schools are a good fit for you.
+Business PhDs are highly fragmented, and it's not always obvious where you fit in. I often have students come into my office knowing they want to study a phenomenon that interests them (like "I'm interested in how organizations use metrics" or "I'm interested in how AI will change innovation"). That's a good starting point, but it isn't enough to answer which types of programs will work for you. 
 
 Keep in mind this is all from my perspective, so take it as one data point to triangulate with other perspectives.
 
