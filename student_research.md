@@ -30,7 +30,7 @@ The Innovation Research Lab is a group of BYU undergraduate and MBA students wor
 ## Interested in Joining the Lab?
 <hr style="border:1px solid gray">
 
-If you're not sure whether a PhD is a good option for you, reach out and I'm happy to chat prior to any formal lab work.
+If you're not sure whether a PhD is a good option for you, reach out and I'm happy to chat prior to any formal lab work. You may also find my <a href="/pre-phd-advice/">Pre-PhD Advice</a> page helpful.
 
 If you know you are interested in joining the lab, know that I have limited student slots. But if you're interested it's always worth a conversation to see what we can do! Read on below.
 
