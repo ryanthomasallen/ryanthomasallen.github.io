@@ -8,16 +8,16 @@ last_modified_at: 2026-07-23
 # Pre-PhD Advice
 <hr style="border:1px solid gray">
 
-This is a growing collection of candid advice for students considering a PhD in business — especially in strategy or innovation. I wrote it for the students who come to my office at BYU, but most of it applies to anyone weighing this path. Click an article to read it.
+This is a growing collection of advice for students considering a PhD in business, especially in strategy or innovation. I wrote it for the students who come to my office at BYU, but most of it applies to anyone weighing this path. Click an article to read it.
 
 <p style="margin-bottom:1.5em;">
-<a href="/pre-phd-advice/should-you-do-a-business-phd/" target="_blank" rel="noopener noreferrer"><strong>Should You Do a Business PhD?</strong></a><br>
-An honest look at whether a business PhD is the right career for you — the typical timeline and pay, why the job is really about research, who thrives, and the pros and cons.
+<a href="/pre-phd-advice/should-you-do-a-business-phd/" target="_blank" rel="noopener noreferrer">Should You Do a Business PhD?</a><br>
+Typical timeline and pay, why the job is really about research, who thrives, and the pros and cons.
 </p>
 
 <p style="margin-bottom:1.5em;">
-<a href="/pre-phd-advice/where-to-apply/" target="_blank" rel="noopener noreferrer"><strong>Where Should You Apply for a Strategy PhD?</strong></a><br>
-How to choose your field (Strategy vs. Organizational Behavior), how strategy programs differ across schools, a big list of programs to consider, and how to research where you fit.
+<a href="/pre-phd-advice/where-to-apply/" target="_blank" rel="noopener noreferrer">Where Should You Apply for a Strategy PhD?</a><br>
+How to choose your field (e.g., Strategy vs. Organizational Behavior), how strategy programs differ across schools, a big list of programs to consider, and how to find where you fit.
 </p>
 
 <hr style="border:none;height:1px;">
