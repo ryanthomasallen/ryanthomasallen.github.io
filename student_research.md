@@ -14,18 +14,18 @@ The Innovation Research Lab is a group of BYU undergraduate and MBA students wor
 
 **Current Projects**
 
-- <a href="https://papers.ssrn.com/abstract_id=5084612" target="_blank" rel="noopener noreferrer">"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</a> — an academic research paper investigating demand-side explanations for why many novel innovations succeed despite small initial market signals.
+- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084612" target="_blank" rel="noopener noreferrer">"The Novelty Discount: Why Observable Demand Understates the Market Size for Novel Products"</a> — an academic research paper investigating demand-side explanations for why many novel innovations succeed despite small initial market signals.
 - "The impact of firm LLM adoption on innovation outcomes" — an academic research paper investigating how the extent of manufacturing and pharma firms' adoption of LLMs since 2022 has impacted innovation outcomes.
 - "The role of blended finance in African entrepreneurship" — an academic research paper investigating how blended finance institutions promote innovation and growth in African startups.
 - Strategy AI simulation — a non-research project building a strategy simulation to be used primarily for teaching in Strategy classes.
 
 **Current Students**
 
-- **Conner Rice** — Research Assistant. Rising senior in Strategy.
-- **George Bingham** — Research Assistant. Rising sophomore.
-- **Thomas Newell** — Research Assistant. Recent MBA grad.
-- **Chad Larman** — Research Assistant. Recent MBA grad.
-- **Caleb Haymore** — Product Manager for AI simulation. Rising senior in Finance.
+- **Conner Rice** — Research Assistant (Strategy).
+- **George Bingham** — Research Assistant.
+- **Thomas Newell** — Research Assistant (MBA).
+- **Chad Larman** — Research Assistant (MBA).
+- **Caleb Haymore** — Product Manager for the AI simulation (Finance).
 
 ## Interested in Joining the Lab?
 <hr style="border:1px solid gray">
@@ -40,10 +40,10 @@ If you know you are interested in joining the lab, know that I have limited stud
 1. **Reach out.** <a href="/contact/">Contact me</a> and send your resume or CV.
 2. **Pick a paper.** Choose one of my papers from the <a href="/research/">Research</a> page and come in prepared for a conversation about why you liked it 
 3. **Initial Conversation.** We will find a time for you to meet in my office to discuss the paper you are interested in, and your motivations for joining the lab.
-3. **Volunteer task.** If it seems like a fit and I have capacity, I'll give you a short data-collection or literature-review task (a few hours).
-4. **Trial period.** If that goes well for both of us, I may then hire you for a one-semester trial — beginning project work plus lab meetings.
-5. **Final checkpoint.** At the end of the trial period, we assess "fit" both ways. I assess your proactivity, responsiveness, and willingness to learn; you assess the work and grade me as a mentor.
-6. **Long-term commitment.** If we both agree, you become a full member of the lab committed through graduation so I can count on you and you can help train the next cohort. If not a fit, no hard feelings — but I don't want you to stay without committing
+4. **Volunteer task.** If it seems like a fit and I have capacity, I'll give you a short data-collection or literature-review task (a few hours).
+5. **Trial period.** If that goes well for both of us, I may then hire you for a one-semester trial — beginning project work plus lab meetings.
+6. **Final checkpoint.** At the end of the trial period, we assess "fit" both ways. I assess your proactivity, responsiveness, and willingness to learn; you assess the work and grade me as a mentor.
+7. **Long-term commitment.** If we both agree, you become a full member of the lab committed through graduation so I can count on you and you can help train the next cohort. If not a fit, no hard feelings — but I don't want you to stay without committing
 
 <hr style="border:none;height:1px;">
 

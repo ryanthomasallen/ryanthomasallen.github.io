@@ -20,7 +20,7 @@ last_modified_at: 2026-03-23
 ## Experience
 <hr style="border:1px solid gray">  
 **Strategic Management (MGMT 430)**  
-University of Washington Undergraduate Capstone; 2024 - present
+University of Washington Undergraduate Capstone; 2024 - 2025
   - Instructor for required undergraduate senior capstone course on strategic management
   - Developed and taught course that combined traditional competitive strategy, disruptive strategy and innovation, and corporate strategy
   - Average teaching rating: 5.0 / 5.0 (3 sections of 50 students with over 90% response rate)

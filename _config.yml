@@ -2,10 +2,14 @@ theme: jekyll-theme-minimal
 lang: en
 title: Ryan T. Allen
 description: "Ryan T. Allen | Assistant Professor at BYU | Research on AI, Innovation, and Data-Driven Organizations"
+author: Ryan T. Allen
 logo: /ryan_allen_portrait.jpg
-# Analytics
-google_analytics: G-2VE8B6C6RX
 url: https://www.ryantallen.com
+social:
+  name: Ryan T. Allen
+  links:
+    - https://scholar.google.com/citations?user=4cp9vjwAAAAJ
+    - https://www.linkedin.com/in/ryantallen/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -15,3 +19,8 @@ defaults:
      path: "*.pdf"
    values:
      sitemap: false
+ -
+   scope:
+     path: ""
+   values:
+     image: /ryan_allen_portrait.jpg

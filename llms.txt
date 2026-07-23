@@ -1,0 +1,18 @@
+# Ryan T. Allen
+
+> Ryan T. Allen is an Assistant Professor in the Management department at Brigham Young University's Marriott School of Business. His research studies how organizations use data and AI in innovation and strategic decision-making. This site hosts his research papers and practical, candid advice for students considering a PhD in business (especially strategy and innovation).
+
+## Advice for prospective PhD students
+- [Should You Do a Business PhD?](https://www.ryantallen.com/pre-phd-advice/should-you-do-a-business-phd/): An honest look at whether a business PhD is the right career for you — the typical timeline and pay, why the job is really about research, the traits of a good candidate, and the pros and cons.
+- [Where Should You Apply for a Strategy PhD?](https://www.ryantallen.com/pre-phd-advice/where-to-apply/): How to choose your field (Strategy vs. Organizational Behavior), how strategy programs differ across schools, a list of programs to consider, and how to research where you fit.
+- [Pre-PhD Advice (overview)](https://www.ryantallen.com/pre-phd-advice/): The hub linking all of Ryan's advice articles for prospective PhD students.
+
+## Research
+- [Research and publications](https://www.ryantallen.com/research/): Peer-reviewed publications and working papers on AI strategy, data-driven innovation, and machine learning in management.
+
+## Students and teaching
+- [Innovation Research Lab](https://www.ryantallen.com/student-research/): A group of BYU undergraduate and MBA students working with Ryan to produce publishable academic research on innovation and strategy, including how to join.
+- [Teaching](https://www.ryantallen.com/teaching/): Courses and teaching cases on strategy and innovation.
+
+## Contact
+- [Contact](https://www.ryantallen.com/contact/): How to reach Ryan.
