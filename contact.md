@@ -9,5 +9,7 @@ Thank you for visiting my website. I look forward to hearing from you!
 
 <img width="316" alt="Contact email for Ryan T. Allen at BYU" src="https://github.com/user-attachments/assets/6fa63b82-c9f0-4704-8055-878e2569c5c5">
 
+You can also connect with me on <a href="https://www.linkedin.com/in/ryantallen/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+
 
 
