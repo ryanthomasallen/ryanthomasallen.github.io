@@ -3,13 +3,21 @@ layout: default
 title: "Research"
 permalink: /research/
 description: "Publications and working papers by Ryan T. Allen on AI strategy, data-driven innovation, and machine learning in management."
-last_modified_at: 2026-05-22
+last_modified_at: 2026-10-20
 ---
 # Research
 
 ## Publications
 
 <hr style="border:1px solid gray">
+<p style="text-indent: -2em; padding-left: 2em;">
+<strong>"Controlled Experiments in Uncontrolled Environments: The Limits of A/B Testing in Startups"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. Conditionally accepted at <i>Organization Science</i>.
+</p>
+<ul>
+<details><summary>Click to display Abstract</summary>Startups increasingly rely on controlled experiments such as A/B testing to navigate uncertainty as they grow. We theorize and show that the methodological rigor these experiments demand often clashes with the volatile realities of entrepreneurship. Relying on the idea of “entrepreneurs as scientists,” we contend that, as in academic research, valid inference requires certain methodological conditions: a stable data-generating process, ceteris paribus, and a sufficient sample size. Yet these conditions are often violated in startups’ uncertain and dynamic environment, and we theorize that experimental feedback becomes distorted in practice when these conditions are violated. Using panel data on 1,558 U.S. e-commerce startups from 2017–2023, we confirm that while A/B testing is associated with higher performance on average, this positive association significantly weakens, and sometimes even reverses, when these conditions are not met.</details>
+</ul>
+
+<hr style="border:none;height:1px;">  
 <p style="text-indent: -2em; padding-left: 2em;">
   <a href="https://pubsonline.informs.org/doi/full/10.1287/stsc.2025.0444" target="_blank" rel="noopener noreferrer">"How Well Can AI do Strategy? Empirical Benchmarking Using Strategy Simulations"</a> with Rory McDonald. <i>Strategy Science</i>.
 </p>
@@ -80,58 +88,47 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 ## Working Papers Submitted or Under Review
 
+<p style="font-size:90%;"><i>Some titles altered for anonymity during review.</i></p>
+
 <hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"The Organizational Structure Implications of Solo Founding vs. Co-Founding"</strong> with Todd Hall. Revise and Resubmit at <i>Academy of Management Journal</i>.
+<strong>"Hierarchy and Experimentation in Startups"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Strategic Management Journal</i>.
 </p>
 
-<hr style="border:none;height:1px;">
+<hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084612" target="_blank" rel="noopener noreferrer">"The Novelty Discount: Why Observable Demand Understates the Market Size for Novel Products"</a> with Conner Rice. Submitted to <i>Organization Science</i>.
- </p>
+<strong>"Theory-driven AI Use in Strategic Decision-Making: Experimental Evidence from Strategy Simulations"</strong> with Mana Heshmati, Michael Lenox, Rory McDonald, and Maelle A. Perez. Revise and Resubmit at <i>Strategic Management Journal</i>.
+</p>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Founding Team Composition and Startup Organizational Design"</strong> with Todd Hall, Travis Howell, and Anavir Shermon. Under Review at <i>Organization Science</i>.
+</p>
+
+<hr style="border:none;height:1px;">  
+<p style = "text-indent: -2em; padding-left: 2em;">
+<strong>"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</strong> with Conner Rice. Under Review at <i>Organization Science</i>.
+</p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
   ** Finalist for TIM Best Paper Award AOM 2024<br>
 </p>
-<ul>
-<details><summary>Click to display Abstract</summary>This paper proposes that for novel products, observable pre-launch demand systematically understates potential market size. Because novel products are harder for customers to evaluate, potential adopters rely more heavily on social learning from prior adopters. Yet this social component of demand is unavailable before launch. Using an agent-based diffusion model, we show that disappointing novel products may underperform initial expectations, but their downside is bounded at zero adoption; by contrast, surprisingly good novel products can convert initially skeptical customers and diffuse far beyond what pre-launch demand would predict. Launching a novel product is therefore not only a higher-variance bet, but an asymmetric one: expectations based on observable demand are systematically biased downward because they fail to capture potential unobservable upside. We test these predictions using data on 6,123 paid video games released on Steam. At comparable levels of pre-launch demand, more novel games achieve higher post-launch sales, followers, and player activity than conventional games. Forecasts trained on conventional games systematically underpredict sales outcomes for novel games. Additional panel evidence confirms that novel games depend more on peer-adoption signals, especially when pre-launch demand is low, and that novelty amplifies the effect of revealed quality while widening the right tail of outcomes. The findings demonstrate that unexpectedly successful novel products are not merely cherry-picked anomalies, but reflect a systematic bias in how markets reveal demand. They also caution against relying too heavily on observable demand when selecting innovations, which may lead to underinvesting in products with the most upside.</details>
-</ul>
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Controlled Experiments in Uncontrolled Environments: The Limits of A/B Testing in Startups"</strong> with Travis Howell, Todd Hall, and Anavir Shermon. Revise and Resubmit at <i>Organization Science</i>.
+<strong>"Capability and Reliability in LLM-Assisted Empirical Analysis"</strong> with Aticus Peterson. Under Review at <i>Strategic Management Journal</i>.
 </p>
-<ul>
-<details><summary>Click to display Abstract</summary>Startups increasingly rely on controlled experiments such as A/B testing to navigate uncertainty as they grow. We theorize and show that the methodological rigor these experiments demand often clashes with the volatile realities of entrepreneurship. Theorizing "entrepreneurs as scientists," we contend that, as in academic research, valid inference requires certain methodological conditions: a stable data-generating process, ceteris paribus, and a sufficient sample size. Yet these conditions are often violated in startups’ uncertain and dynamic environment, and we theorize that experimental feedback becomes distorted in practice when these conditions are violated. Using panel data on 1,558 U.S. e-commerce startups from 2017–2023, we confirm that while A/B testing is associated with higher performance on average, this positive association significantly weakens, and sometimes even reverses, when these conditions are not met.</details>
-</ul>
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Organizing for Adaptation: Does Managerial Hierarchy Help or Hinder Product Adaptation in Startups?"</strong> with Todd Hall, Anavir Shermon, and Travis Howell. Revise and Resubmit at <i>Organization Science</i>.
+<strong>"Artificial Intelligence and the Limits of the Solo Firm"</strong> with Travis Howell, Anavir Shermon, and Todd Hall. Under Review at <i>Academy of Management Review</i>.
 </p>
-<ul>
-<details><summary>Click to display Abstract</summary>Prior research portrays hierarchy in startups as a tradeoff: enhancing coordination but constraining adaptability. We challenge this view by asking: under what conditions does managerial hierarchy hinder or enable product adaptation in startups? Using a question-driven approach with data on 3,832 U.S. e-commerce startups from 2017–2023, we find that adding hierarchical layers is positively associated with product adaptation. This relationship strengthens when coordination demands are higher—specifically, when startups exhibit greater workforce specialization and product component interdependence—and weakens when managerial intensity is excessive. Moreover, hierarchy amplifies the performance benefits of adaptation across website visits, unique users, and engagement time. Together, these findings challenge the prevailing tradeoff view, suggesting that hierarchy should not be viewed solely as a constraint on adaptation but as an enabler when adaptation requires coordination.</details>
-</ul>
 
-<hr style="border:none;height:1px;">  
-<p style = "text-indent: -2em; padding-left: 2em;">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293738" target="_blank" rel="noopener noreferrer">"Intelligence Without Integrity: Why Capable LLMs May Undermine Reliability"</a> with Aticus Peterson. Under Review at <i>Organization Science</i>.
-</p>
-<ul>
-<details><summary>Click to display Abstract</summary>As LLMs become embedded in research workflows and organizational decision processes, their effect on analytical reliability remains uncertain. We distinguish two dimensions of analytical reliability—intelligence (the capacity to reach correct conclusions) and integrity (the stability of conclusions when analytically irrelevant cues about desired outcomes are introduced)—and ask whether frontier LLMs possess both. Whether these dimensions trade off is theoretically ambiguous: the sophistication enabling accurate analysis may also enable responsiveness to non-evidential cues, or alternatively, greater capability may confer protection through better calibration and discernment. Using synthetically generated data with embedded ground truth, we evaluate fourteen models on a task simulating empirical analysis of hospital merger effects. We find that intelligence and integrity trade off: frontier models most likely to reach correct conclusions under neutral conditions are often most susceptible to shifting conclusions under motivated framing. We extend work on sycophancy by introducing goal-conditioned analytical sycophancy: sensitivity of inference to cues about desired outcomes, even when no belief is asserted and evidence is held constant. Unlike simple prompt sensitivity, models shift conclusions away from objective evidence in response to analytically irrelevant framing. This finding has important implications for empirical research and organizations. Selecting tools based on capability benchmarks may inadvertently select against the stability needed for reliable and replicable analysis.</details>
-</ul>
+## Working Papers
 
-<hr style="border:none;height:1px;">  
+<hr style="border:1px solid gray">
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"LLMs as Belief Amplifiers: How Human Mental Representations Shape AI-Augmented Strategy"</strong> with Mana Heshmati, Michael Lenox, Rory McDonald, and Maelle A. Perez. Under Review at <i>Strategic Management Journal</i>.
-</p>
-<ul>
-<details><summary>Click to display Abstract</summary>Artificial Intelligence (AI) systems based on Large Language Models (LLMs) have made rapid progress in general intelligence capabilities (e.g., programming, dialogue, and exam performance), but they may struggle with strategy problems marked by high complexity, multi-period dynamism, and uncertainty. Meanwhile, strategy research on cognition has demonstrated that good decisions depend not just on general intelligence, but on the mental representations managers use to simplify, interpret, and act in such complex settings. We therefore ask: how does using LLMs affect human strategic decision-making, and how do mental representations moderate any such effects? Taking an abductive approach, we empirically scrutinize these questions in a classroom experiment of participants (N≈200) using the Back Bay Battery strategy simulation in a 2×2 randomized design: treatment of access to an LLM (OpenAI’s o4-mini), and treatment of prior training in disruption theory. We find that among active LLM users, the effect of using the LLM hinged on their mental representation: without disruption training, greater LLM use led to more investment in the simulation’s legacy profitable yet declining business; with disruption training, greater LLM use increased investment in the emerging technology. Text analysis of chat logs indicates a mental representation mechanism: trained participants issue technology-focused prompts that pushed back more on the LLM, whereas untrained participants were focused on other aspects of the simulation (e.g., product pricing) and pushed back less on the LLM’s responses. These results are consistent with the theory that LLMs function as belief amplifiers. Paired with forward-looking mental representations, the LLM interaction ultimately reinforces forward-looking strategies; absent them, they entrench backward-looking exploitation. We suggest that a key role of strategists in the age of AI is to supply the most useful representation, framework, or theory for a given situation.</details>
-</ul>
-
-<hr style="border:none;height:1px;">  
-<p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Does AI Redirect What Firms Innovate In?"</strong> Working paper.
+<strong>"AI Adoption and the Direction of Firm Innovation"</strong> with Conner Rice. Working paper.
 </p>
 
 <hr style="border:none;height:1px;">  
