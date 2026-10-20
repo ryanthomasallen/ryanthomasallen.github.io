@@ -107,17 +107,23 @@ Code repository <a href = "https://github.com/ryantallen/bbb_benchmark_public">H
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Leap of Faith? How Diffusion Dynamics Obfuscate the Commercial Potential of Novel Innovations"</strong> with Conner Rice. Under Review at <i>Organization Science</i>.
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084612" target="_blank" rel="noopener noreferrer">"The Novelty Discount: Why Observable Demand Understates the Market Size for Novel Products"</a> with Conner Rice. Under Review at <i>Organization Science</i>.
 </p>
 <p style="margin-left:5%;font-size:95%;">
   ** "Best Paper" at AOM 2024<br>
   ** Finalist for TIM Best Paper Award AOM 2024<br>
 </p>
+<ul>
+<details><summary>Click to display Abstract</summary>This paper proposes that for novel products, observable pre-launch demand systematically understates potential market size. Because novel products are harder for customers to evaluate, potential adopters rely more heavily on social learning from prior adopters. Yet this social component of demand is unavailable before launch. Using an agent-based diffusion model, we show that disappointing novel products may underperform initial expectations, but their downside is bounded at zero adoption; by contrast, surprisingly good novel products can convert initially skeptical customers and diffuse far beyond what pre-launch demand would predict. Launching a novel product is therefore not only a higher-variance bet, but an asymmetric one: expectations based on observable demand are systematically biased downward because they fail to capture potential unobservable upside. We test these predictions using data on 6,123 paid video games released on Steam. At comparable levels of pre-launch demand, more novel games achieve higher post-launch sales, followers, and player activity than conventional games. Forecasts trained on conventional games systematically underpredict sales outcomes for novel games. Additional panel evidence confirms that novel games depend more on peer-adoption signals, especially when pre-launch demand is low, and that novelty amplifies the effect of revealed quality while widening the right tail of outcomes. The findings demonstrate that unexpectedly successful novel products are not merely cherry-picked anomalies, but reflect a systematic bias in how markets reveal demand. They also caution against relying too heavily on observable demand when selecting innovations, which may lead to underinvesting in products with the most upside.</details>
+</ul>
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
-<strong>"Capability and Reliability in LLM-Assisted Empirical Analysis"</strong> with Aticus Peterson. Under Review at <i>Strategic Management Journal</i>.
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293738" target="_blank" rel="noopener noreferrer">"Intelligence Without Integrity: Why Capable LLMs May Undermine Reliability"</a> with Aticus Peterson. Under Review at <i>Strategic Management Journal</i>.
 </p>
+<ul>
+<details><summary>Click to display Abstract</summary>As LLMs become embedded in research workflows and organizational decision processes, their effect on analytical reliability remains uncertain. We distinguish two dimensions of analytical reliability—intelligence (the capacity to reach correct conclusions) and integrity (the stability of conclusions when analytically irrelevant cues about desired outcomes are introduced)—and ask whether frontier LLMs possess both. Whether these dimensions trade off is theoretically ambiguous: the sophistication enabling accurate analysis may also enable responsiveness to non-evidential cues, or alternatively, greater capability may confer protection through better calibration and discernment. Using synthetically generated data with embedded ground truth, we evaluate fourteen models on a task simulating empirical analysis of hospital merger effects. We find that intelligence and integrity trade off: frontier models most likely to reach correct conclusions under neutral conditions are often most susceptible to shifting conclusions under motivated framing. We extend work on sycophancy by introducing goal-conditioned analytical sycophancy: sensitivity of inference to cues about desired outcomes, even when no belief is asserted and evidence is held constant. Unlike simple prompt sensitivity, models shift conclusions away from objective evidence in response to analytically irrelevant framing. This finding has important implications for empirical research and organizations. Selecting tools based on capability benchmarks may inadvertently select against the stability needed for reliable and replicable analysis.</details>
+</ul>
 
 <hr style="border:none;height:1px;">  
 <p style = "text-indent: -2em; padding-left: 2em;">
