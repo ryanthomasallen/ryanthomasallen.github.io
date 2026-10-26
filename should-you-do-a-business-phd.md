@@ -3,7 +3,7 @@ layout: default
 title: "Should You Do a Business PhD?"
 permalink: /pre-phd-advice/should-you-do-a-business-phd/
 description: "An honest look at whether a business PhD is the right career for you: the typical timeline and pay, why the job is really about research, who thrives, and the pros and cons."
-last_modified_at: 2026-07-23
+last_modified_at: 2026-10-26
 article: true
 date_published: 2026-07-23
 ---
@@ -24,11 +24,17 @@ So I'll give you the basic facts about the career, in hopes that you can more re
 
 First off, let's make sure you understand a typical timeline:
 
-| Stage | How long | What you're doing | Pay |
-|---|---|---|---|
-| **PhD student** | ~6 years | The first 2 years are mostly classes; after that, almost 100% research (ideally), maybe with some light teaching. | Free tuition + ~$45k stipend |
-| **Assistant professor** (pre-tenure) | ~6 years | Mostly research, while worrying about getting tenure. At R1 schools, tenure is awarded to those who can publish 4–6 top-tier peer-reviewed journal articles. You do get to teach, and it's fun, but it takes a small share of your time and energy relative to research. | ~$220–260k market range at many R1 universities |
-| **Tenured professor** | Rest of career | More security to pursue the research and teaching you care about. | Small pay bump at tenure (not huge); afterward it roughly keeps up with inflation. Outside money is possible (executive education, consulting, etc.), but FYI most of those opportunities go to professors at top schools. |
+| Stage | How long | Pay |
+|---|---|---|
+| **1. PhD student** | ~6 years | Free tuition + ~$45k stipend |
+| **2. Assistant professor** (pre-tenure) | ~6 years | ~$220–285k market range at many R1 universities |
+| **3. Tenured professor** | Rest of career | Small bump at tenure, then roughly keeps up with inflation |
+
+What you're actually doing at each stage:
+
+1. **PhD student.** The first 2 years are mostly classes; after that, almost 100% research (ideally), maybe with some light teaching.
+2. **Assistant professor.** Mostly research, while worrying about getting tenure. At R1 schools, tenure is awarded to those who can publish 4–6 top-tier peer-reviewed journal articles. You do get to teach, and it's fun, but it takes a small share of your time and energy relative to research.
+3. **Tenured professor.** More security to pursue the research and teaching you care about. The pay bump at tenure is not huge. Outside money is possible (executive education, consulting, etc.), but FYI most of those opportunities go to professors at top schools.
 
 You may have noticed that a huge portion of what you do is **research**. This is what most people don't truly understand before they enter the PhD. You live or die by your ability to produce novel, valuable research in peer-reviewed journal articles (like _Strategic Management Journal_ or _Organization Science_ — not pop business magazines like _HBR_).
 
@@ -61,12 +67,51 @@ If you have those traits, you may be a great fit for the career. But if you have
 
 To finish up, here are some of the pros and cons. Many of them are two sides of the same coin:
 
-| The good | The bad |
-|---|---|
-| The PhD is an amazing opportunity to just level up your intellectual ability and interact with smart people discussing interesting ideas. | PhDs are long. Six years is a _significant_ opportunity cost. |
-| Your job is very flexible and you direct your own time. You don't have a boss! Every day is a Saturday! | ...but you _do_ have to work on Saturdays, and no one is making you do it. Because of this lack of structure, PhDs are typically not great for a person's mental health. Getting published and landing a first job involve significant uncertainty over long-horizon tasks (research papers take years) with almost no immediate positive feedback. You control the inputs (time at your desk, papers submitted), but not the outputs (a 3rd-round rejection! your dream job not hiring for the next 3 years!). Even though your time is flexible, you start feeling like you should always be working, and your papers and job prospects are constantly hanging over you and never go away. Someone once told me there's a rare stress-induced rash that's typically only seen in combat veterans with PTSD... and PhD students. Fortunately this stress subsides once you have some publishing success and/or tenure — but this purgatory can last 6–10 years! |
-| Salaries in business schools are quite good, especially for academia. | But notice the lack of unbounded upside (no $5 million exits here!) and the relatively flat salary trajectory over the course of the career, compared to many MBA-type options. |
-| You get to read, write, and code a lot. If you like that, it's really fun. | Sometimes you feel isolated at your computer. |
-| Teaching is really fun, and I believe it can be a profound way to influence students for good. | You can't do the career just for teaching, because the bottleneck of success is research. |
+<div class="tradeoff" markdown="1">
+### Intellectual growth vs. time
 
-If you finish this article and still like the idea of doing a business PhD, [come meet with me](/contact/). You might also find my [Innovation Research Lab](/student-research/) and my advice on [where to apply](/pre-phd-advice/where-to-apply/) helpful.
+<span class="good">The good:</span> The PhD is an amazing opportunity to just level up your intellectual ability and interact with smart people discussing interesting ideas.
+
+<span class="bad">The bad:</span> PhDs are long. Six years is a _significant_ opportunity cost.
+</div>
+
+<div class="tradeoff" markdown="1">
+### Freedom vs. no structure
+
+<span class="good">The good:</span> Your job is very flexible and you direct your own time. You don't have a boss! Every day is a Saturday!
+
+<span class="bad">The bad:</span> ...but even though every day is a Saturday, you _do_ have to work on "Saturdays," and no one is making you do it. Because of this lack of structure, PhDs are typically not great for a person's mental health:
+- Getting published and landing a first job involve significant uncertainty over long-horizon tasks (research papers take years) with almost no immediate positive feedback.
+- You control the inputs (time at your desk, papers submitted), but not the outputs (a 3rd-round rejection! your dream job not hiring for the next 3 years!).
+- Even though your time is flexible, you start feeling like you should always be working, and your papers and job prospects are constantly hanging over you and never go away. Someone once told me there's a rare stress-induced rash that's typically only seen in combat veterans with PTSD... and PhD students.
+
+Fortunately this stress subsides once you have some publishing success and/or tenure — but this purgatory can last 6–10 years!
+</div>
+
+<div class="tradeoff" markdown="1">
+### Good pay vs. limited upside
+
+<span class="good">The good:</span> Salaries in business schools are quite good, especially for academia.
+
+<span class="bad">The bad:</span> But notice the lack of unbounded upside (no $5 million exits here!) and the relatively flat salary trajectory over the course of the career, compared to many MBA-type options.
+</div>
+
+<div class="tradeoff" markdown="1">
+### Deep work vs. isolation
+
+<span class="good">The good:</span> You get to read, write, and code a lot. If you like that, it's really fun.
+
+<span class="bad">The bad:</span> Sometimes you feel isolated at your computer.
+</div>
+
+<div class="tradeoff" markdown="1">
+### Teaching vs. the research bottleneck
+
+<span class="good">The good:</span> Teaching is really fun, and I believe it can be a profound way to influence students for good.
+
+<span class="bad">The bad:</span> You can't do the career just for teaching, because the bottleneck of success is research.
+</div>
+
+If you finish this article and still like the idea of doing a business PhD, [come meet with me](/contact/). You might also find my [Innovation Research Lab](/student-research/), my advice on [where to apply](/pre-phd-advice/where-to-apply/), and [what makes a successful application](/pre-phd-advice/successful-application/) helpful.
+
+**Other perspectives.** I wrote this before I came across two other guides that cover the same question from different angles, and I think they're worth reading alongside mine: the "Should you get a PhD?" section of [The Complete Guide to Business School PhD Applications](https://www.lumiere-education.com/post/the-complete-guide-to-business-school-phd-applications){:target="_blank" rel="noopener noreferrer"} by Stephen Turban and Megan Gorges (both from HBS), and the career sections of Abhishek Nagaraj's [A Guide to Business PhD Applications](https://www.abhishekn.com/publications-all/a-guide-to-business-phd-applications){:target="_blank" rel="noopener noreferrer"} (written in 2010, so some details are dated, but the substance holds up).

@@ -3,7 +3,7 @@ layout: default
 title: "Innovation Research Lab"
 permalink: /student-research/
 description: "Ryan T. Allen's Innovation Research Lab at BYU — undergraduate and MBA students collaborating on academic research in strategy and innovation."
-last_modified_at: 2026-05-11
+last_modified_at: 2026-10-26
 ---
 # Innovation Research Lab
 
@@ -14,17 +14,17 @@ The Innovation Research Lab is a group of BYU undergraduate and MBA students wor
 
 **Current Projects**
 
-- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084612" target="_blank" rel="noopener noreferrer">"The Novelty Discount: Why Observable Demand Understates the Market Size for Novel Products"</a> — an academic research paper investigating demand-side explanations for why many novel innovations succeed despite small initial market signals.
-- "The impact of firm LLM adoption on innovation outcomes" — an academic research paper investigating how the extent of manufacturing and pharma firms' adoption of LLMs since 2022 has impacted innovation outcomes.
-- "The role of blended finance in African entrepreneurship" — an academic research paper investigating how blended finance institutions promote innovation and growth in African startups.
-- Strategy AI simulation — a non-research project building a strategy simulation to be used primarily for teaching in Strategy classes.
+- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084612" target="_blank" rel="noopener noreferrer"><strong>"The Novelty Discount: Why Observable Demand Understates the Market Size for Novel Products"</strong></a> — an academic research paper investigating demand-side explanations for why many novel innovations succeed despite small initial market signals.
+- **"The impact of firm LLM adoption on innovation outcomes"** — an academic research paper investigating how the extent of manufacturing and pharma firms' adoption of LLMs since 2022 has impacted innovation outcomes.
+- **"The role of blended finance in African entrepreneurship"** — an academic research paper investigating how blended finance institutions promote innovation and growth in African startups.
+- **Strategy AI simulation** — a non-research project building a strategy simulation to be used primarily for teaching in Strategy classes.
 
 **Current Students**
 
 - **Conner Rice** — Research Assistant (Strategy).
-- **George Bingham** — Research Assistant.
+- **George Bingham** — Research Assistant (Strategy).
 - **Thomas Newell** — Research Assistant (MBA).
-- **Chad Larman** — Research Assistant (MBA).
+- **Benjamin Larson** — Research Assistant.
 - **Caleb Haymore** — Product Manager for the AI simulation (Finance).
 
 ## Interested in Joining the Lab?
@@ -83,6 +83,8 @@ Rather than assigning just one-off grunt tasks, I would assign you to a specific
 <hr style="border:none;height:1px;">
 
 **Recommended Classes**
+
+If at all possible, I recommend a **minor in Economics**. Basic microeconomics, econometrics, and (if you can fit it in) the Industrial Organization class are especially helpful for strategy research.
 
 Ideally taken before joining; some can be taken during the early stages of working in the lab.
 

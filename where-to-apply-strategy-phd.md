@@ -3,7 +3,7 @@ layout: default
 title: "Where Should You Apply for a Strategy PhD?"
 permalink: /pre-phd-advice/where-to-apply/
 description: "How to choose where to apply for a business PhD: picking your field (Strategy vs. OB), how strategy programs differ, a list of programs to consider, and how to research fit."
-last_modified_at: 2026-07-23
+last_modified_at: 2026-10-26
 article: true
 date_published: 2026-07-23
 ---
@@ -72,22 +72,36 @@ Which specific programs should you consider? As I hinted above, each school is d
 
 I'll start by telling you to which programs I applied. Keep in mind I was fairly Econ-inclined at the time, and felt fairly confident in my research experience, letters of recommendation, and test scores. I would actually change some of my recommendations for many strategy applicants as noted below. But I'll list every school application for context.
 
-In no particular order:
+Here's what happened with each application, grouped by outcome:
 
-- **Harvard Business School**, Technology and Operations Management (TOM) Department. **(Accepted)** Harvard does have a Strategy department and for most people I would recommend applying there. But at the time, the people I was most interested in were in the TOM department (including Clay Christensen, Rory McDonald, Raj Choudhury) and the department had a solid reputation as a strategy/innovation group. See, it's confusing!
-- **Wharton** Management Department. **(Declined)** Wharton has different groups like Strategy, International Business, Entrepreneurship, and it's good to target people from a specific group. Wharton traditionally has a good reputation for PhD mentorship and placement.
-- **Michigan** Strategy Department. **(No offer)** This is a "core" strategy program. Good reputation for PhD mentorship and placement.
-- **NYU** Management and Organizations Department (strategy group). **(Declined)**
-- **Maryland** Strategic Management and Entrepreneurship. **(No offer)** Another "core" strategy program. Good reputation for PhD mentorship and placement.
-- **MIT** Technological Innovation, Entrepreneurship, and Strategic Management (TIES). **(No offer)** This is a great group with great PhD training, but very selective.
-- **Columbia** Management Department (strategy group). **(No offer)**
-- **INSEAD** Strategy department. **(Declined)** Great group but you have to be ok living in Singapore or France!
-- **London Business School** Strategy & Entrepreneurship. **(No offer)** Great group but must be ok with international experience!
-- **U of Minnesota**, Strategic Management & Entrepreneurship. **(Withdrew)** Good group of faculty for my interests at the time.
-- **Duke** Strategy Department. **(Withdrew)** Econ heavy program, but still in the field of strategy. They typically consider fairly strong Econ candidates.
-- **Northwestern** Managerial Economics and Strategy. **(No offer)** I actually think this was a mistake—it's a very Econ-oriented department and I should have applied to the Management and Organizations department given my interests.
-- **UC Berkeley** Business and Public Policy. **(No offer)** Probably another mistake—it used to be a "core" albeit Econ-oriented strategy department that produced a lot of influential people in the field. But now it's fairly disconnected from the strategy field. You may want to consider the MORS department instead, though now it's fairly Psych and Soc focused.
-- **UChicago Booth** Economics Department. **(No offer)** I do not recommend this for most Strategy applicants! This was just me also trying some other programs. These people have nothing to do with the field of Strategy.
+| Outcome | Schools |
+|---|---|
+| <span class="badge badge-admit">Admitted</span> | Harvard (accepted), Wharton, NYU, INSEAD |
+| <span class="badge badge-withdrew">Withdrew</span> | Minnesota, Duke (I withdrew these after accepting Harvard) |
+| <span class="badge badge-nooffer">No offer</span> | Michigan, Maryland, MIT, Columbia, London Business School, Northwestern, UC Berkeley, UChicago Booth (rejected or never heard back) |
+
+**<span class="badge badge-admit">Admitted</span> These schools all made me an offer. I accepted Harvard and declined the others.**
+
+- **Harvard Business School**, Technology and Operations Management (TOM) Department. **I accepted this one.** Harvard does have a Strategy department and for most people I would recommend applying there. But at the time, the people I was most interested in were in the TOM department (including Clay Christensen, Rory McDonald, Raj Choudhury) and the department had a solid reputation as a strategy/innovation group. See, it's confusing!
+- **Wharton** Management Department. Wharton has different groups like Strategy, International Business, Entrepreneurship, and it's good to target people from a specific group. Wharton traditionally has a good reputation for PhD mentorship and placement.
+- **NYU** Management and Organizations Department (strategy group).
+- **INSEAD** Strategy department. Great group but you have to be ok living in Singapore or France!
+
+**<span class="badge badge-withdrew">Withdrew</span> I withdrew these applications when I accepted Harvard, before they made a decision.**
+
+- **U of Minnesota**, Strategic Management & Entrepreneurship. Good group of faculty for my interests at the time.
+- **Duke** Strategy Department. Econ heavy program, but still in the field of strategy. They typically consider fairly strong Econ candidates.
+
+**<span class="badge badge-nooffer">No offer</span> These schools either rejected me or never got back to me.**
+
+- **Michigan** Strategy Department. This is a "core" strategy program. Good reputation for PhD mentorship and placement.
+- **Maryland** Strategic Management and Entrepreneurship. Another "core" strategy program. Good reputation for PhD mentorship and placement.
+- **MIT** Technological Innovation, Entrepreneurship, and Strategic Management (TIES). This is a great group with great PhD training, but very selective.
+- **Columbia** Management Department (strategy group).
+- **London Business School** Strategy & Entrepreneurship. Great group but must be ok with international experience!
+- **Northwestern** Managerial Economics and Strategy. I actually think this was a mistake—it's a very Econ-oriented department and I should have applied to the Management and Organizations department given my interests.
+- **UC Berkeley** Business and Public Policy. Probably another mistake—it used to be a "core" albeit Econ-oriented strategy department that produced a lot of influential people in the field. But now it's fairly disconnected from the strategy field. You may want to consider the MORS department instead, though now it's fairly Psych and Soc focused.
+- **UChicago Booth** Economics Department. I do not recommend this for most Strategy applicants! This was just me also trying some other programs. These people have nothing to do with the field of Strategy.
 
 Other programs I would consider if I were applying today:
 - **Cornell** Management. Historically strong BYU pipeline. Generally more "Organization Theory" than "Economics" focused.
@@ -117,6 +131,8 @@ Manually going through the process of clicking around faculty pages and program 
 
 In the end, you should expect to apply to ~10-20 schools. Be fairly open in the programs you consider, but don't apply anywhere you know you wouldn't go for whatever reason. Good luck and let me know if you have any questions!
 
+**Other perspectives.** Since writing this, I've come across two guides with their own sections on choosing programs, both worth reading for a second (and third) opinion: the "Choosing where to apply" section of [The Complete Guide to Business School PhD Applications](https://www.lumiere-education.com/post/the-complete-guide-to-business-school-phd-applications){:target="_blank" rel="noopener noreferrer"} by Stephen Turban and Megan Gorges, and the "Choosing Schools and Programs" section of Abhishek Nagaraj's [A Guide to Business PhD Applications](https://www.abhishekn.com/publications-all/a-guide-to-business-phd-applications){:target="_blank" rel="noopener noreferrer"}. Neither is strategy-specific, so they complement the program list above rather than replace it.
+
 <hr style="border:none;height:1px;">
 
-Not sure a PhD is right for you in the first place? Start with [Should You Do a Business PhD?](/pre-phd-advice/should-you-do-a-business-phd/) Questions? [Come talk to me](/contact/).
+Not sure a PhD is right for you in the first place? Start with [Should You Do a Business PhD?](/pre-phd-advice/should-you-do-a-business-phd/) Ready to put your application together? See [What Makes a Successful Business PhD Application?](/pre-phd-advice/successful-application/) Questions? [Come talk to me](/contact/).
